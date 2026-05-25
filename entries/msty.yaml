@@ -5,7 +5,13 @@ category: desktop-chat-apps
 category_label: Desktop Chat Apps
 tagline: Fast desktop chat with branching conversations and parallel-model comparison.
   Free tier covers personal local use.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- closed source
+- free
+- TypeScript
 list: local-ai
 added: '2026-04-30'
 category_order: 1

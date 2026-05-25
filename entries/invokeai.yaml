@@ -5,7 +5,15 @@ category: image-generation
 category_label: Image Generation
 tagline: Pro-grade SD UI with strong canvas / inpainting tools. Enterprise tier; free
   local install remains open source.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- closed source
+- free
+- paid
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 4

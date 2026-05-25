@@ -5,7 +5,13 @@ category: code-assistants
 category_label: Code Assistants
 tagline: Terminal pair-programming. Bring-your-own-LLM via LiteLLM — run with Ollama
   or any OpenAI-compatible local endpoint.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 6

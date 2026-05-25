@@ -4,7 +4,14 @@ url: https://github.com/MycroftAI/mimic3
 category: voice-text-to-speech
 category_label: Voice — Text-to-Speech
 tagline: Mycroft's neural TTS engine. Lightweight, multilingual.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- mobile
+- open source
+- free
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 3

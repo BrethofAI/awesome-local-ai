@@ -5,7 +5,12 @@ category: inference-runtimes
 category_label: Inference Runtimes
 tagline: Fast inference for quantised LLMs on consumer NVIDIA GPUs. EXL2 format outperforms
   GGUF on the same hardware in many benchmarks.
-tags: []
+tags:
+- Linux
+- Windows
+- open source
+- free
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 0

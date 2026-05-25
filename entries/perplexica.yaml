@@ -4,7 +4,13 @@ url: https://github.com/ItzCrazyKns/Perplexica
 category: local-search-rag
 category_label: Local Search & RAG
 tagline: Open-source AI search powered by SearXNG + your local LLM.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- TypeScript
 list: local-ai
 added: '2026-04-30'
 category_order: 11

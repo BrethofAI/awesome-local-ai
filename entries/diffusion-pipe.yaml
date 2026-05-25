@@ -5,7 +5,11 @@ category: training-fine-tuning
 category_label: Training & Fine-tuning
 tagline: Pipeline-parallel trainer for diffusion models. Multi-GPU LoRA on large image
   / video models.
-tags: []
+tags:
+- Linux
+- open source
+- free
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 10

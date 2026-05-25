@@ -5,7 +5,13 @@ category: voice-speech-to-text
 category_label: Voice — Speech-to-Text
 tagline: CTranslate2-based reimplementation. ~4× faster than reference Whisper at
   the same accuracy.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 2

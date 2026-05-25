@@ -1,0 +1,9 @@
+# Per-category intro paragraphs, keyed by category slug (slugified label).
+# Emitted under the category heading by scripts/gen_awesome_readme.py.
+
+inference-runtimes: >
+  Engines that load LLMs, vision models, and other neural networks for
+  inference on your hardware.
+
+desktop-chat-apps: >
+  GUI applications wrapping a local runtime in a chat interface.

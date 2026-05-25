@@ -5,7 +5,13 @@ category: vector-databases
 category_label: Vector Databases
 tagline: Embedding database designed for local-first usage. SQLite-style single-file
   or client/server.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 8

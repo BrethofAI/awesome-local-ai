@@ -5,7 +5,13 @@ category: inference-runtimes
 category_label: Inference Runtimes
 tagline: Rust LLM inference platform with quantization, vision, MoE, and speculative
   decoding.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Rust
 list: local-ai
 added: '2026-04-30'
 category_order: 0

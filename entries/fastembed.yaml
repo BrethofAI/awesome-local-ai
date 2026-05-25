@@ -4,7 +4,13 @@ url: https://github.com/qdrant/fastembed
 category: embeddings
 category_label: Embeddings
 tagline: Lightweight CPU-friendly embedding library by Qdrant.
-tags: []
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Python
 list: local-ai
 added: '2026-04-30'
 category_order: 9
