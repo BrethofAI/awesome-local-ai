@@ -1,0 +1,11 @@
+name: MLX
+slug: mlx-hardware-specific-runtimes
+url: https://github.com/ml-explore/mlx
+category: hardware-specific-runtimes
+category_label: Hardware-Specific Runtimes
+tagline: Apple Silicon-native ML library. Already listed under training; it also ships
+  an inference runtime competitive with llama.cpp on M-series.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 13

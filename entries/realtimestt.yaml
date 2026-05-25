@@ -1,0 +1,10 @@
+name: RealtimeSTT
+slug: realtimestt
+url: https://github.com/KoljaB/RealtimeSTT
+category: voice-speech-to-text
+category_label: Voice — Speech-to-Text
+tagline: Low-latency streaming wrapper around faster-whisper for live dictation pipelines.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 2

@@ -1,0 +1,10 @@
+name: AUTOMATIC1111 / Stable Diffusion WebUI
+slug: automatic1111-stable-diffusion-webui
+url: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+category: image-generation
+category_label: Image Generation
+tagline: The original ergonomic SD UI. Heavy plugin ecosystem.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 4

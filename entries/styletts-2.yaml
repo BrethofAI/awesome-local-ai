@@ -1,0 +1,11 @@
+name: StyleTTS 2
+slug: styletts-2
+url: https://github.com/yl4579/StyleTTS2
+category: voice-text-to-speech
+category_label: Voice — Text-to-Speech
+tagline: High-fidelity expressive TTS with style transfer. Strong reference voice
+  cloning.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 3

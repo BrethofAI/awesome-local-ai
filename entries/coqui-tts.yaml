@@ -1,0 +1,11 @@
+name: Coqui TTS
+slug: coqui-tts
+url: https://github.com/coqui-ai/TTS
+category: voice-text-to-speech
+category_label: Voice — Text-to-Speech
+tagline: Comprehensive TTS toolkit. Multiple architectures (Tacotron, VITS, XTTS)
+  and voice cloning.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 3

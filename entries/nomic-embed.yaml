@@ -1,0 +1,10 @@
+name: Nomic Embed
+slug: nomic-embed
+url: https://www.nomic.ai/blog/posts/nomic-embed-text-v1
+category: embeddings
+category_label: Embeddings
+tagline: Open-weights, fully reproducible long-context embedding model.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 9

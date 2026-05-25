@@ -1,0 +1,11 @@
+name: CachyOS
+slug: cachyos
+url: https://cachyos.org
+category: operating-systems-tuned-for-ai
+category_label: Operating Systems Tuned for AI
+tagline: Arch-based desktop distro with a tuned kernel and recent NVIDIA / AMD drivers.
+  Sane out-of-the-box for new GPUs (Blackwell, RDNA 4).
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 12

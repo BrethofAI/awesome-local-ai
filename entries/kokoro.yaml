@@ -1,0 +1,11 @@
+name: Kokoro
+slug: kokoro
+url: https://github.com/hexgrad/kokoro
+category: voice-text-to-speech
+category_label: Voice — Text-to-Speech
+tagline: Tiny ~80M-param TTS model, surprisingly natural for the size. Suitable for
+  low-end hardware.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 3

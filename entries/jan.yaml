@@ -1,0 +1,10 @@
+name: Jan
+slug: jan
+url: https://jan.ai
+category: inference-runtimes
+category_label: Inference Runtimes
+tagline: Open-source ChatGPT alternative. Bundles llama.cpp + a clean UI.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 0

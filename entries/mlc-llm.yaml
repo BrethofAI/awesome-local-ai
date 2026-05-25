@@ -1,0 +1,11 @@
+name: MLC LLM
+slug: mlc-llm
+url: https://llm.mlc.ai
+category: inference-runtimes
+category_label: Inference Runtimes
+tagline: Compile-once, deploy-anywhere LLM runtime. Targets WebGPU, Vulkan, CUDA,
+  Metal, iOS, and Android from a single source.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 0

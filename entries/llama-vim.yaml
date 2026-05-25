@@ -1,0 +1,10 @@
+name: Llama.vim
+slug: llama-vim
+url: https://github.com/ggml-org/llama.vim
+category: code-assistants
+category_label: Code Assistants
+tagline: Vim plugin that streams llama.cpp completions inline. No cloud.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 6

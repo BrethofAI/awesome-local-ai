@@ -1,0 +1,13 @@
+name: Brethof Voice Pro
+slug: brethof-voice-pro
+url: https://brethof.com
+category: voice-speech-to-text
+category_label: Voice — Speech-to-Text
+tagline: 'Desktop dictation app built on Qwen3-ASR + GGUF + llama.cpp. 36 languages,
+  hotkey-anywhere transcription, file/microphone/system-audio input, LoRA personal
+  voice training. 100% offline, no account required to transcribe. Disclosure: maintained
+  by us.'
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 2

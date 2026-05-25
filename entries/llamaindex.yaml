@@ -1,0 +1,11 @@
+name: LlamaIndex
+slug: llamaindex
+url: https://www.llamaindex.ai
+category: local-search-rag
+category_label: Local Search & RAG
+tagline: Toolkit for building RAG pipelines. Works fully offline with local models
+  + vector DBs.
+tags: []
+list: local-ai
+added: '2026-04-30'
+category_order: 11
