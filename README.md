@@ -2,7 +2,7 @@
 
 > Curated list of AI tools that run **100% on your machine** — no cloud, no telemetry, no "local-ish" setups that secretly phone home.
 
-Maintained by [Brethof AI](https://brethof.com). Companion to
+Maintained by [Brethof AI](https://brethof.ai). Companion to
 [awesome-llms-txt](https://github.com/BrethofAI/awesome-llms-txt) and
 [awesome-private-ai](https://github.com/BrethofAI/awesome-private-ai).
 
@@ -105,7 +105,7 @@ GUI applications wrapping a local runtime in a chat interface.
 
 ## Voice — Speech-to-Text
 
-- **[Brethof Voice Pro](https://brethof.com)** — 🐧 🪟 🔒 🆓 💰 ⚙️  
+- **[Brethof Voice Pro](https://brethof.ai/voice/)** — 🐧 🪟 🔒 🆓 💰 ⚙️  
   Desktop dictation app built on Qwen3-ASR + GGUF + llama.cpp. 36 languages, hotkey-anywhere transcription, file/microphone/system-audio input, LoRA personal voice training. 100% offline, no account required to transcribe. Disclosure: maintained by us.
 - **[faster-whisper](https://github.com/SYSTRAN/faster-whisper)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   CTranslate2-based reimplementation. ~4× faster than reference Whisper at the same accuracy.
@@ -278,5 +278,5 @@ mode is gated behind a paid plan.
 
 ---
 
-Maintained by **[Brethof AI](https://brethof.com)** — AI tools built for
+Maintained by **[Brethof AI](https://brethof.ai)** — AI tools built for
 people who take their data seriously.

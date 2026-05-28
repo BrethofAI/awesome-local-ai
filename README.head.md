@@ -2,7 +2,7 @@
 
 > Curated list of AI tools that run **100% on your machine** — no cloud, no telemetry, no "local-ish" setups that secretly phone home.
 
-Maintained by [Brethof AI](https://brethof.com). Companion to
+Maintained by [Brethof AI](https://brethof.ai). Companion to
 [awesome-llms-txt](https://github.com/BrethofAI/awesome-llms-txt) and
 [awesome-private-ai](https://github.com/BrethofAI/awesome-private-ai).
 

@@ -1,6 +1,6 @@
 name: Brethof Voice Pro
 slug: brethof-voice-pro
-url: https://brethof.com
+url: https://brethof.ai/voice/
 category: voice-speech-to-text
 category_label: Voice — Speech-to-Text
 tagline: 'Desktop dictation app built on Qwen3-ASR + GGUF + llama.cpp. 36 languages,
