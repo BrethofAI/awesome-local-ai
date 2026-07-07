@@ -49,7 +49,7 @@ To be listed:
 - [Image Generation](#image-generation) (7)
 - [Video Generation](#video-generation) (2)
 - [Code Assistants](#code-assistants) (5)
-- [Local Agents](#local-agents) (3)
+- [Local Agents](#local-agents) (4)
 - [Vector Databases](#vector-databases) (6)
 - [Embeddings](#embeddings) (3)
 - [Training & Fine-tuning](#training--fine-tuning) (5)
@@ -180,6 +180,8 @@ GUI applications wrapping a local runtime in a chat interface.
   Agentic editing flow inside Continue. Pair with a local model for fully-offline coding agents.
 - **[Open Interpreter](https://github.com/OpenInterpreter/open-interpreter)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Code-execution agent that runs Python/shell on your machine. Local-LLM friendly.
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** — 🐧 🍎 🔓 🆓 🦀
+  Local-first memory lifecycle for coding agents with SQLite/FTS recall, audit, and forgetting.
 
 ## Vector Databases
 
