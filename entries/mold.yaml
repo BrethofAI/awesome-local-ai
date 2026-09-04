@@ -1,0 +1,16 @@
+name: Mold
+slug: mold
+url: https://github.com/utensils/mold
+category: image-generation
+category_label: Image Generation
+tagline: CLI-native local AI image/video/3D generation (Rust/Candle, CUDA/Metal,
+  MCP) for people, scripts, and agents.
+tags:
+- Linux
+- macOS
+- open source
+- free
+- Rust
+list: local-ai
+added: '2026-09-04'
+category_order: 4
