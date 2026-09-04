@@ -46,7 +46,7 @@ To be listed:
 - [Desktop Chat Apps](#desktop-chat-apps) (4)
 - [Voice — Speech-to-Text](#voice-—-speech-to-text) (7)
 - [Voice — Text-to-Speech](#voice-—-text-to-speech) (6)
-- [Image Generation](#image-generation) (7)
+- [Image Generation](#image-generation) (8)
 - [Video Generation](#video-generation) (2)
 - [Code Assistants](#code-assistants) (5)
 - [Local Agents](#local-agents) (3)
@@ -147,6 +147,8 @@ GUI applications wrapping a local runtime in a chat interface.
   Performance-tuned A1111 fork by lllyasviel. Lower VRAM, faster on modern GPUs.
 - **[InvokeAI](https://invoke.com)** — 🐧 🪟 🍎 🔓 🔒 🆓 💰 🐍  
   Pro-grade SD UI with strong canvas / inpainting tools. Enterprise tier; free local install remains open source.
+- **[Mold](https://github.com/utensils/mold)** — 🐧 🍎 🔓 🆓 🦀  
+  CLI-native local AI image/video/3D generation (Rust/Candle, CUDA/Metal, MCP) for people, scripts, and agents.
 - **[SD.Next](https://github.com/vladmandic/sdnext)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   All-in-one fork of A1111 with broader backend support (Diffusers, ONNX, ROCm).
 - **[SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)** — 🐧 🪟 🍎 🔓 🆓 🟦  
@@ -215,7 +217,7 @@ GUI applications wrapping a local runtime in a chat interface.
   Apple's native ML framework for Apple Silicon. Train and infer on M-series Macs without CUDA workarounds.
 - **[Ostris ai-toolkit](https://github.com/ostris/ai-toolkit)** — 🐧 🪟 🔓 🆓 🐍  
   LoRA training UI for Flux, SD3, SDXL, LTX. Works on consumer hardware.
-- **[Unsloth](https://unsloth.ai)** — 🐧 🪟 🍎 🔓 🆓 🐍  
+- **[Unsloth](https://github.com/unslothai/unsloth)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Fine-tune LLMs 2× faster with 70% less VRAM than reference HuggingFace pipelines.
 
 ## Local Search & RAG
