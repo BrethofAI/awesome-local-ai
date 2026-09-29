@@ -1,10 +1,10 @@
-name: Coqui TTS
+name: Coqui TTS (idiap fork)
 slug: coqui-tts
-url: https://github.com/coqui-ai/TTS
+url: https://github.com/idiap/coqui-ai-TTS
 category: voice-text-to-speech
 category_label: Voice — Text-to-Speech
-tagline: Comprehensive TTS toolkit. Multiple architectures (Tacotron, VITS, XTTS)
-  and voice cloning.
+tagline: The maintained fork of the Coqui TTS toolkit (the original repo is unmaintained).
+  Multiple architectures (VITS, XTTS) and voice cloning. pip install coqui-tts.
 tags:
 - Linux
 - Windows

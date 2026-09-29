@@ -1,0 +1,15 @@
+name: VibeVoice
+slug: vibevoice
+url: https://github.com/microsoft/VibeVoice
+category: voice-speech-to-text
+category_label: Voice — Speech-to-Text
+tagline: 'Microsoft''s MIT-licensed voice models: VibeVoice-ASR (long-form transcription with
+  speaker labels, 50+ languages, streaming variant) and a realtime 0.5B TTS.'
+tags:
+- Linux
+- open source
+- free
+- Python
+list: local-ai
+added: '2026-09-29'
+category_order: 2

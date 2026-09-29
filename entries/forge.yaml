@@ -1,10 +1,10 @@
-name: Forge
+name: Forge Classic / Neo
 slug: forge
-url: https://github.com/lllyasviel/stable-diffusion-webui-forge
+url: https://github.com/Haoming02/sd-webui-forge-classic
 category: image-generation
 category_label: Image Generation
-tagline: Performance-tuned A1111 fork by lllyasviel. Lower VRAM, faster on modern
-  GPUs.
+tagline: The maintained continuation of lllyasviel's Forge (the original has not moved since
+  mid-2025). Low-VRAM A1111-style UI; the default Neo branch adds newer model support. AGPL-3.0.
 tags:
 - Linux
 - Windows

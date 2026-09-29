@@ -1,10 +1,10 @@
-name: Msty
+name: Msty Studio
 slug: msty
-url: https://msty.app
+url: https://msty.ai
 category: desktop-chat-apps
 category_label: Desktop Chat Apps
-tagline: Fast desktop chat with branching conversations and parallel-model comparison.
-  Free tier covers personal local use.
+tagline: Desktop chat with branching conversations and parallel-model comparison; local engines
+  (Ollama, llama.cpp, MLX) are in the free tier.
 tags:
 - Linux
 - Windows

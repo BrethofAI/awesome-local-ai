@@ -1,9 +1,10 @@
-name: Text Generation WebUI
+name: TextGen (text-generation-webui)
 slug: text-generation-webui
-url: https://github.com/oobabooga/text-generation-webui
+url: https://github.com/oobabooga/textgen
 category: inference-runtimes
 category_label: Inference Runtimes
-tagline: Gradio-based web UI for local LLMs. Supports GGUF, GPTQ, AWQ, EXL2.
+tagline: oobabooga's desktop app for local LLMs, renamed from text-generation-webui. llama.cpp,
+  ExLlamaV3, Transformers and TensorRT-LLM backends; vision and tool-calling.
 tags:
 - Linux
 - Windows

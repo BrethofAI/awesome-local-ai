@@ -1,10 +1,10 @@
 name: Piper
 slug: piper
-url: https://github.com/rhasspy/piper
+url: https://github.com/OHF-Voice/piper1-gpl
 category: voice-text-to-speech
 category_label: Voice — Text-to-Speech
-tagline: Fast neural TTS. ONNX runtime, dozens of voices and languages. Designed for
-  Raspberry Pi-class hardware.
+tagline: Fast neural TTS, dozens of voices and languages, built for Raspberry Pi-class hardware.
+  Development moved from rhasspy/piper (archived) to the Open Home Foundation; now GPL-3.0.
 tags:
 - Linux
 - Windows
