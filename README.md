@@ -54,7 +54,7 @@ To be listed:
 - [Embeddings](#embeddings) (3)
 - [Training & Fine-tuning](#training--fine-tuning) (5)
 - [Local Search & RAG](#local-search--rag) (5)
-- [Operating Systems Tuned for AI](#operating-systems-tuned-for-ai) (5)
+- [Operating Systems Tuned for AI](#operating-systems-tuned-for-ai) (2)
 - [Hardware-Specific Runtimes](#hardware-specific-runtimes) (4)
 
 <!-- The list below is generated from entries/*.yaml by scripts/gen_awesome_readme.py. Edit the YAML, not this section. -->
@@ -139,7 +139,7 @@ GUI applications wrapping a local runtime in a chat interface.
 
 - **[AUTOMATIC1111 / Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   The original ergonomic SD UI. Heavy plugin ecosystem.
-- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** — 🐧 🪟 🍎 🔓 🆓 🐍  
+- **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Node-graph workflow editor for diffusion models. Powers most modern local image and video pipelines.
 - **[Fooocus](https://github.com/lllyasviel/Fooocus)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Image generator with sane defaults — minimal knobs for great results. Built on top of Stable Diffusion.
@@ -154,7 +154,7 @@ GUI applications wrapping a local runtime in a chat interface.
 
 ## Video Generation
 
-- **[ComfyUI + LTX Video](https://github.com/comfyanonymous/ComfyUI)** — 🐧 🪟 🍎 🔓 🆓 🐍  
+- **[ComfyUI + LTX Video](https://github.com/Comfy-Org/ComfyUI)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   ComfyUI nodes drive Lightricks LTX video models for text-to-video and image-to-video generation. The chunked-loop pattern (released in our [comfyui-workflows](https://github.com/BrethofAI/comfyui-workflows)) produces longer outputs than vanilla LTX allows.
 - **[Wan2GP](https://github.com/deepbeepmeep/Wan2GP)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Stripped-down Wan2.2 video pipeline for low-VRAM consumer GPUs.
@@ -233,14 +233,10 @@ GUI applications wrapping a local runtime in a chat interface.
 
 ## Operating Systems Tuned for AI
 
-- **[Bazzite](https://bazzite.gg)** — 🐧 🔓 🆓  
-  Container-native gaming and AI distro. Steam Deck-friendly, latest drivers, easy CUDA.
-- **[Bluefin](https://projectbluefin.io)** — 🐧 🔓 🆓  
-  Fedora-based, atomic, container-first. Good "drop you in a known state" workstation for AI work.
+The two distros that come ready for local AI out of the box. The full, ranked comparison lives in [awesome-linux-for-ai](https://github.com/BrethofAI/awesome-linux-for-ai).
+
 - **[CachyOS](https://cachyos.org)** — 🐧 🔓 🆓  
   Arch-based desktop distro with a tuned kernel and recent NVIDIA / AMD drivers. Sane out-of-the-box for new GPUs (Blackwell, RDNA 4).
-- **[NixOS](https://nixos.org)** — 🐧 🔓 🆓  
-  Reproducible system config. Best when you need identical CUDA + ML toolchain across machines.
 - **[Pop!_OS](https://pop.system76.com)** — 🐧 🔓 🆓  
   System76's NVIDIA-friendly desktop distro. ISO ships with proprietary drivers for plug-and-play GPU work.
 

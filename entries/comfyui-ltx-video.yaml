@@ -1,6 +1,6 @@
 name: ComfyUI + LTX Video
 slug: comfyui-ltx-video
-url: https://github.com/comfyanonymous/ComfyUI
+url: https://github.com/Comfy-Org/ComfyUI
 category: video-generation
 category_label: Video Generation
 tagline: ComfyUI nodes drive Lightricks LTX video models for text-to-video and image-to-video

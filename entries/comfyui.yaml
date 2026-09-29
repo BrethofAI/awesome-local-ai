@@ -1,6 +1,6 @@
 name: ComfyUI
 slug: comfyui
-url: https://github.com/comfyanonymous/ComfyUI
+url: https://github.com/Comfy-Org/ComfyUI
 category: image-generation
 category_label: Image Generation
 tagline: Node-graph workflow editor for diffusion models. Powers most modern local

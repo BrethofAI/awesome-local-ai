@@ -7,3 +7,8 @@ inference-runtimes: >
 
 desktop-chat-apps: >
   GUI applications wrapping a local runtime in a chat interface.
+
+operating-systems-tuned-for-ai: >
+  The two distros that come ready for local AI out of the box. The full,
+  ranked comparison lives in
+  [awesome-linux-for-ai](https://github.com/BrethofAI/awesome-linux-for-ai).
