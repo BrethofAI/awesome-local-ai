@@ -44,12 +44,12 @@ To be listed:
 
 - [Inference Runtimes](#inference-runtimes) (13)
 - [Desktop Chat Apps](#desktop-chat-apps) (3)
-- [Voice — Speech-to-Text](#voice-—-speech-to-text) (10)
+- [Voice — Speech-to-Text](#voice-—-speech-to-text) (11)
 - [Voice — Text-to-Speech](#voice-—-text-to-speech) (6)
-- [Image Generation](#image-generation) (5)
-- [Video Generation](#video-generation) (2)
+- [Image Generation](#image-generation) (7)
+- [Video Generation](#video-generation) (3)
 - [Code Assistants](#code-assistants) (5)
-- [Local Agents](#local-agents) (3)
+- [Local Agents](#local-agents) (4)
 - [Vector Databases](#vector-databases) (5)
 - [Embeddings](#embeddings) (3)
 - [Training & Fine-tuning](#training--fine-tuning) (5)
@@ -105,6 +105,8 @@ GUI applications wrapping a local runtime in a chat interface.
 
 - **[Brethof Voice Pro](https://brethof.ai/voice/)** — 🐧 🪟 🔒 🆓 💰 ⚙️  
   Desktop dictation app built on Qwen3-ASR + GGUF + llama.cpp. 36 languages, hotkey-anywhere transcription, file/microphone/system-audio input, LoRA personal voice training. 100% offline, no account required to transcribe. Disclosure: maintained by us.
+- **[Dictámelo](https://github.com/sarrazola/dictamelo)** — 🪟 🍎 🔓 🆓 🦀  
+  Hold-to-talk dictation into any text field, with local Whisper, Parakeet v3 and Canary models that work offline after one download, no account or API key. Cloud transcription and AI clean-up are optional extras, off the offline path.
 - **[Handy](https://github.com/cjpais/Handy)** — 🐧 🪟 🍎 🔓 🆓 🦀  
   Free, open-source push-to-talk dictation into any app, working completely offline with Whisper or Parakeet models.
 - **[Moonshine](https://github.com/moonshine-ai/moonshine)** — 🐧 🪟 🍎 📱 🔓 🆓 🐍  
@@ -147,6 +149,10 @@ GUI applications wrapping a local runtime in a chat interface.
   The maintained continuation of lllyasviel's Forge (the original has not moved since mid-2025). Low-VRAM A1111-style UI; the default Neo branch adds newer model support. AGPL-3.0.
 - **[InvokeAI](https://invoke.com)** — 🐧 🪟 🍎 🔓 🔒 🆓 💰 🐍  
   Pro-grade SD UI with strong canvas / inpainting tools. Enterprise tier; free local install remains open source.
+- **[Mold](https://github.com/utensils/mold)** — 🐧 🍎 🔓 🆓 🦀  
+  CLI-native local image, video and 3D generation in Rust (Candle, CUDA/Metal), with an MCP server, for people, scripts and agents.
+- **[Radiant Canvas (formerly Krealize)](https://radiantbeargames.com/radiant-canvas)** — 🍎 🔒 🆓 💰  
+  Native Mac image generator and editor running open models (FLUX.2 Klein, Krea 2, Qwen Image Edit, Z-Image and more) entirely on Apple silicon via MLX. No account, no telemetry. Closed source; free tier includes every model, PRO adds formats and advanced nodes. macOS 26.2+.
 - **[SD.Next](https://github.com/vladmandic/sdnext)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   All-in-one fork of A1111 with broader backend support (Diffusers, ONNX, ROCm).
 - **[SwarmUI](https://github.com/mcmonkeyprojects/SwarmUI)** — 🐧 🪟 🍎 🔓 🆓 🟦  
@@ -156,6 +162,8 @@ GUI applications wrapping a local runtime in a chat interface.
 
 - **[ComfyUI + LTX Video](https://github.com/Comfy-Org/ComfyUI)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   ComfyUI nodes drive Lightricks LTX video models for text-to-video and image-to-video generation. The chunked-loop pattern (released in our [comfyui-workflows](https://github.com/BrethofAI/comfyui-workflows)) produces longer outputs than vanilla LTX allows.
+- **[NanoAvatar](https://github.com/wpydcr/NanoAvatar)** — 📱 🔓 🆓  
+  Audio-driven talking avatars generated on an Android phone; Experience mode runs fully offline, no account or API key. Code MIT; the lip-sync weights and default avatar are CC BY-NC 4.0 (non-commercial).
 - **[Wan2GP](https://github.com/deepbeepmeep/Wan2GP)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Stripped-down Wan2.2 video pipeline for low-VRAM consumer GPUs.
 
@@ -180,6 +188,8 @@ GUI applications wrapping a local runtime in a chat interface.
   Agentic editing flow inside Continue. Pair with a local model for fully-offline coding agents.
 - **[Open Interpreter](https://github.com/openinterpreter/openinterpreter)** — 🐧 🪟 🍎 🔓 🆓 🦀  
   Rewritten in 2026 as a Rust coding agent (a fork of OpenAI's Codex) for open models. Fully local with --oss and Ollama or LM Studio as the provider.
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** — 🐧 🍎 🔓 🆓 🦀  
+  Local-first memory for coding agents: a Rust CLI/TUI with project-scoped SQLite/FTS recall, audit and forgetting. No account, no cloud service.
 
 ## Vector Databases
 
