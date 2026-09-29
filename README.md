@@ -103,8 +103,8 @@ GUI applications wrapping a local runtime in a chat interface.
 
 ## Voice — Speech-to-Text
 
-- **[Brethof Voice Pro](https://brethof.ai/voice/)** — 🐧 🪟 🔒 🆓 💰 ⚙️  
-  Desktop dictation app built on Qwen3-ASR + GGUF + llama.cpp. 36 languages, hotkey-anywhere transcription, file/microphone/system-audio input, LoRA personal voice training. 100% offline, no account required to transcribe. Disclosure: maintained by us.
+- **[Brethof Voice Pro](https://brethof.ai/voice/)** — 🐧 🪟 🔒 💰  
+  Voice-to-text, translation and subtitles, all on your own computer: transcription in 30 languages plus 22 Chinese dialects (Qwen3-ASR 0.6B / 1.7B), offline translation across 38 languages (Hunyuan MT2), text / SRT / VTT subtitles whose timings survive translation, and a voice keyboard that types into any app — the transcript or its translation. Listens to the microphone, a file, or system audio; runs on CPU or any Vulkan 1.2+ GPU (NVIDIA, AMD, Intel). Voice training from your own corrections and an MCP server for agents come with a paid licence; 14-day trial. Network use is a licence check, an update check and the model downloads you start — no audio, no text. Disclosure: maintained by us.
 - **[Dictámelo](https://github.com/sarrazola/dictamelo)** — 🪟 🍎 🔓 🆓 🦀  
   Hold-to-talk dictation into any text field, with local Whisper, Parakeet v3 and Canary models that work offline after one download, no account or API key. Cloud transcription and AI clean-up are optional extras, off the offline path.
 - **[Handy](https://github.com/cjpais/Handy)** — 🐧 🪟 🍎 🔓 🆓 🦀  
