@@ -27,11 +27,19 @@ CI-style sweep cuts entries whose URL 404s.
 
 To be listed:
 
-- Inference happens on the user's CPU, GPU, NPU, or local accelerator.
-- No mandatory account creation just to use the offline mode.
-- Source code or signed binaries available — verifiable provenance.
-- Maintained: a release, commit, or PR merge in the last 6 months.
-- Real artefact (not a "coming soon" landing page).
+- It runs on the user's own hardware — inference on a CPU, GPU, NPU or
+  local accelerator, or a component of a local AI stack (vector store,
+  memory, embeddings, training).
+- No mandatory account just to use it offline.
+- Source code or signed binaries — verifiable provenance.
+- A real artefact you can install today, not a "coming soon" page.
+
+New or small is fine: we don't turn a tool away for being young or
+little-known. Every entry is labelled honestly instead — 🆕 marks a
+listing from the last 60 days — and our weekly check removes anything that
+stops working or goes six months without a release, commit or merged PR.
+We decline only tools with nothing real to point at, misleading claims,
+or no local mode at all.
 
 ## Legend
 
@@ -39,3 +47,4 @@ To be listed:
 - 🔓 open source · 🔒 closed source
 - 🆓 free for personal · 💰 paid · 🆓💰 free + paid tiers
 - 🐍 Python · 🦀 Rust · 🐹 Go · ⚙️ C/C++ · 🟦 TypeScript / JS
+- 🆕 new — listed in the last 60 days

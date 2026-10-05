@@ -27,11 +27,19 @@ CI-style sweep cuts entries whose URL 404s.
 
 To be listed:
 
-- Inference happens on the user's CPU, GPU, NPU, or local accelerator.
-- No mandatory account creation just to use the offline mode.
-- Source code or signed binaries available — verifiable provenance.
-- Maintained: a release, commit, or PR merge in the last 6 months.
-- Real artefact (not a "coming soon" landing page).
+- It runs on the user's own hardware — inference on a CPU, GPU, NPU or
+  local accelerator, or a component of a local AI stack (vector store,
+  memory, embeddings, training).
+- No mandatory account just to use it offline.
+- Source code or signed binaries — verifiable provenance.
+- A real artefact you can install today, not a "coming soon" page.
+
+New or small is fine: we don't turn a tool away for being young or
+little-known. Every entry is labelled honestly instead — 🆕 marks a
+listing from the last 60 days — and our weekly check removes anything that
+stops working or goes six months without a release, commit or merged PR.
+We decline only tools with nothing real to point at, misleading claims,
+or no local mode at all.
 
 ## Legend
 
@@ -39,6 +47,7 @@ To be listed:
 - 🔓 open source · 🔒 closed source
 - 🆓 free for personal · 💰 paid · 🆓💰 free + paid tiers
 - 🐍 Python · 🦀 Rust · 🐹 Go · ⚙️ C/C++ · 🟦 TypeScript / JS
+- 🆕 new — listed in the last 60 days
 
 ## Contents
 
@@ -49,7 +58,7 @@ To be listed:
 - [Image Generation](#image-generation) (7)
 - [Video Generation](#video-generation) (3)
 - [Code Assistants](#code-assistants) (5)
-- [Local Agents](#local-agents) (4)
+- [Local Agents](#local-agents) (5)
 - [Vector Databases](#vector-databases) (5)
 - [Embeddings](#embeddings) (3)
 - [Training & Fine-tuning](#training--fine-tuning) (5)
@@ -63,7 +72,7 @@ To be listed:
 
 Engines that load LLMs, vision models, and other neural networks for inference on your hardware.
 
-- **[ExLlamaV3](https://github.com/turboderp-org/exllamav3)** — 🐧 🪟 🔓 🆓 🐍  
+- **[ExLlamaV3](https://github.com/turboderp-org/exllamav3)** — 🆕 🐧 🪟 🔓 🆓 🐍  
   Fast quantised-LLM inference on consumer NVIDIA GPUs; successor to ExLlamaV2 (archived by its author). Serve it with [TabbyAPI](https://github.com/theroyallab/tabbyAPI).
 - **[Jan](https://jan.ai)** — 🐧 🪟 🍎 🔓 🆓 🟦  
   Open-source ChatGPT alternative. Bundles llama.cpp + a clean UI.
@@ -71,7 +80,7 @@ Engines that load LLMs, vision models, and other neural networks for inference o
   Single-binary llama.cpp wrapper with KoboldAI UI for chat, story-writing, RP.
 - **[llama.cpp](https://github.com/ggml-org/llama.cpp)** — 🐧 🪟 🍎 🔓 ⚙️  
   Reference C++ implementation for running LLaMA-family and other transformer models with GGUF quantization. Powers most of the others in this section.
-- **[llamafile](https://github.com/mozilla-ai/llamafile)** — 🐧 🪟 🍎 🔓 🆓 ⚙️  
+- **[llamafile](https://github.com/mozilla-ai/llamafile)** — 🆕 🐧 🪟 🍎 🔓 🆓 ⚙️  
   Mozilla's one-file LLM: model and llama.cpp runtime in a single executable that runs on Linux, Windows and macOS without an install.
 - **[LM Studio](https://lmstudio.ai)** — 🐧 🪟 🍎 🔒 🆓 ⚙️  
   Polished desktop app for discovering, downloading, and running local LLMs. OpenAI-compatible server mode. Free for personal + commercial.
@@ -105,19 +114,19 @@ GUI applications wrapping a local runtime in a chat interface.
 
 - **[Brethof Voice Pro](https://brethof.ai/voice/)** — 🐧 🪟 🔒 💰  
   Voice-to-text, translation and subtitles, all on your own computer: transcription in 30 languages plus 22 Chinese dialects (Qwen3-ASR 0.6B / 1.7B), offline translation across 38 languages (Hunyuan MT2), text / SRT / VTT subtitles whose timings survive translation, and a voice keyboard that types into any app — the transcript or its translation. Listens to the microphone, a file, or system audio; runs on CPU or any Vulkan 1.2+ GPU (NVIDIA, AMD, Intel). Voice training from your own corrections and an MCP server for agents come with a paid licence; 14-day trial. Network use is a licence check, an update check and the model downloads you start — no audio, no text. Disclosure: maintained by us.
-- **[Dictámelo](https://github.com/sarrazola/dictamelo)** — 🪟 🍎 🔓 🆓 🦀  
+- **[Dictámelo](https://github.com/sarrazola/dictamelo)** — 🆕 🪟 🍎 🔓 🆓 🦀  
   Hold-to-talk dictation into any text field, with local Whisper, Parakeet v3 and Canary models that work offline after one download, no account or API key. Cloud transcription and AI clean-up are optional extras, off the offline path.
-- **[Handy](https://github.com/cjpais/Handy)** — 🐧 🪟 🍎 🔓 🆓 🦀  
+- **[Handy](https://github.com/cjpais/Handy)** — 🆕 🐧 🪟 🍎 🔓 🆓 🦀  
   Free, open-source push-to-talk dictation into any app, working completely offline with Whisper or Parakeet models.
-- **[Moonshine](https://github.com/moonshine-ai/moonshine)** — 🐧 🪟 🍎 📱 🔓 🆓 🐍  
+- **[Moonshine](https://github.com/moonshine-ai/moonshine)** — 🆕 🐧 🪟 🍎 📱 🔓 🆓 🐍  
   Very low-latency streaming speech-to-text for on-device use; no account or API key. Code and default models MIT (legacy non-English models are non-commercial).
-- **[NVIDIA Parakeet TDT 0.6B v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3)** — 🐧 🪟 🍎 🔓 🆓 🐍  
+- **[NVIDIA Parakeet TDT 0.6B v3](https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3)** — 🆕 🐧 🪟 🍎 🔓 🆓 🐍  
   Fast multilingual ASR model (CC-BY-4.0). Run it locally with [onnx-asr](https://github.com/istupakov/onnx-asr), [parakeet-mlx](https://github.com/senstella/parakeet-mlx) or NVIDIA NeMo.
 - **[OpenAI Whisper](https://github.com/openai/whisper)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Reference Python implementation. Accurate but slower than the C++ ports; useful when you need the exact research behaviour.
 - **[RealtimeSTT](https://github.com/KoljaB/RealtimeSTT)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Low-latency streaming wrapper around faster-whisper for live dictation pipelines.
-- **[VibeVoice](https://github.com/microsoft/VibeVoice)** — 🐧 🔓 🆓 🐍  
+- **[VibeVoice](https://github.com/microsoft/VibeVoice)** — 🆕 🐧 🔓 🆓 🐍  
   Microsoft's MIT-licensed voice models: VibeVoice-ASR (long-form transcription with speaker labels, 50+ languages, streaming variant) and a realtime 0.5B TTS.
 - **[Vosk](https://alphacephei.com/vosk/)** — 🐧 🪟 🍎 📱 🔓 🆓 🐍  
   Lightweight offline speech recognizer with 20+ language models. Real-time on CPU.
@@ -128,17 +137,17 @@ GUI applications wrapping a local runtime in a chat interface.
 
 ## Voice — Text-to-Speech
 
-- **[Chatterbox](https://github.com/resemble-ai/chatterbox)** — 🐧 🔓 🆓 🐍  
+- **[Chatterbox](https://github.com/resemble-ai/chatterbox)** — 🆕 🐧 🔓 🆓 🐍  
   Resemble AI's MIT-licensed voice-cloning TTS family: Multilingual (0.5B), Turbo (350M, supports tags like [laugh]) and Nano (110M, CPU).
 - **[Coqui TTS (idiap fork)](https://github.com/idiap/coqui-ai-TTS)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   The maintained fork of the Coqui TTS toolkit (the original repo is unmaintained). Multiple architectures (VITS, XTTS) and voice cloning. pip install coqui-tts.
 - **[Kokoro](https://huggingface.co/hexgrad/Kokoro-82M)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Tiny 82M-param TTS model (Apache-2.0), surprisingly natural for the size and fine on low-end hardware. Run it with [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) (OpenAI-compatible server) or [kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx).
-- **[Kyutai Pocket TTS](https://github.com/kyutai-labs/pocket-tts)** — 🐧 🪟 🍎 🔓 🆓 🐍  
+- **[Kyutai Pocket TTS](https://github.com/kyutai-labs/pocket-tts)** — 🆕 🐧 🪟 🍎 🔓 🆓 🐍  
   Lightweight TTS from Kyutai built to run on a CPU, no GPU PyTorch needed. Code MIT, weights CC-BY-4.0.
 - **[Piper](https://github.com/OHF-Voice/piper1-gpl)** — 🐧 🪟 🍎 📱 🔓 🆓 ⚙️  
   Fast neural TTS, dozens of voices and languages, built for Raspberry Pi-class hardware. Development moved from rhasspy/piper (archived) to the Open Home Foundation; now GPL-3.0.
-- **[VoxCPM2](https://github.com/OpenBMB/VoxCPM)** — 🐧 🍎 🔓 🆓 🐍  
+- **[VoxCPM2](https://github.com/OpenBMB/VoxCPM)** — 🆕 🐧 🍎 🔓 🆓 🐍  
   Multilingual TTS with voice design and cloning from OpenBMB; Apache-2.0 code and weights. pip install voxcpm.
 
 ## Image Generation
@@ -149,9 +158,9 @@ GUI applications wrapping a local runtime in a chat interface.
   The maintained continuation of lllyasviel's Forge (the original has not moved since mid-2025). Low-VRAM A1111-style UI; the default Neo branch adds newer model support. AGPL-3.0.
 - **[InvokeAI](https://invoke.com)** — 🐧 🪟 🍎 🔓 🔒 🆓 💰 🐍  
   Pro-grade SD UI with strong canvas / inpainting tools. Enterprise tier; free local install remains open source.
-- **[Mold](https://github.com/utensils/mold)** — 🐧 🍎 🔓 🆓 🦀  
+- **[Mold](https://github.com/utensils/mold)** — 🆕 🐧 🍎 🔓 🆓 🦀  
   CLI-native local image, video and 3D generation in Rust (Candle, CUDA/Metal), with an MCP server, for people, scripts and agents.
-- **[Radiant Canvas (formerly Krealize)](https://radiantbeargames.com/radiant-canvas)** — 🍎 🔒 🆓 💰  
+- **[Radiant Canvas (formerly Krealize)](https://radiantbeargames.com/radiant-canvas)** — 🆕 🍎 🔒 🆓 💰  
   Native Mac image generator and editor running open models (FLUX.2 Klein, Krea 2, Qwen Image Edit, Z-Image and more) entirely on Apple silicon via MLX. No account, no telemetry. Closed source; free tier includes every model, PRO adds formats and advanced nodes. macOS 26.2+.
 - **[SD.Next](https://github.com/vladmandic/sdnext)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   All-in-one fork of A1111 with broader backend support (Diffusers, ONNX, ROCm).
@@ -162,7 +171,7 @@ GUI applications wrapping a local runtime in a chat interface.
 
 - **[ComfyUI + LTX Video](https://github.com/Comfy-Org/ComfyUI)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   ComfyUI nodes drive Lightricks LTX video models for text-to-video and image-to-video generation. The chunked-loop pattern (released in our [comfyui-workflows](https://github.com/BrethofAI/comfyui-workflows)) produces longer outputs than vanilla LTX allows.
-- **[NanoAvatar](https://github.com/wpydcr/NanoAvatar)** — 📱 🔓 🆓  
+- **[NanoAvatar](https://github.com/wpydcr/NanoAvatar)** — 🆕 📱 🔓 🆓  
   Audio-driven talking avatars generated on an Android phone; Experience mode runs fully offline, no account or API key. Code MIT; the lip-sync weights and default avatar are CC BY-NC 4.0 (non-commercial).
 - **[Wan2GP](https://github.com/deepbeepmeep/Wan2GP)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   Stripped-down Wan2.2 video pipeline for low-VRAM consumer GPUs.
@@ -186,9 +195,11 @@ GUI applications wrapping a local runtime in a chat interface.
   Aider's planning mode separates "decide" and "edit" steps; works well with strong local reasoning models.
 - **[Continue Agent mode](https://docs.continue.dev/agent/how-to-use-it)** — 🐧 🪟 🍎 🔓 🆓 🟦  
   Agentic editing flow inside Continue. Pair with a local model for fully-offline coding agents.
+- **[Hyperconsciousness (hc)](https://github.com/louis030195/hyperconsciousness)** — 🆕 🐧 🪟 🍎 🔓 🆓 🦀  
+  Encrypted, append-only knowledge store for local agents (Rust CLI, MIT) with scoped, expiring grants over MCP/HTTP; no hosted service required, device sync optional. Developer alpha with no independent audit yet; installer builds auto-update from GitHub by default.
 - **[Open Interpreter](https://github.com/openinterpreter/openinterpreter)** — 🐧 🪟 🍎 🔓 🆓 🦀  
   Rewritten in 2026 as a Rust coding agent (a fork of OpenAI's Codex) for open models. Fully local with --oss and Ollama or LM Studio as the provider.
-- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** — 🐧 🍎 🔓 🆓 🦀  
+- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** — 🆕 🐧 🍎 🔓 🆓 🦀  
   Local-first memory for coding agents: a Rust CLI/TUI with project-scoped SQLite/FTS recall, audit and forgetting. No account, no cloud service.
 
 ## Vector Databases
