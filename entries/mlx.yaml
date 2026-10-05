@@ -3,13 +3,16 @@ slug: mlx
 url: https://github.com/ml-explore/mlx
 category: training-fine-tuning
 category_label: Training & Fine-tuning
-tagline: Apple's native ML framework for Apple Silicon. Train and infer on M-series
-  Macs without CUDA workarounds.
+tagline: Apple's array/ML framework, native on Apple Silicon (unified memory, Metal),
+  with CUDA and CPU backends on Linux. Train and infer without CUDA workarounds on
+  M-series Macs.
 tags:
 - macOS
+- Linux
 - open source
 - free
 - Python
 list: local-ai
 added: '2026-04-30'
 category_order: 10
+verified: '2026-10-05'

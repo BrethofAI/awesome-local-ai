@@ -1,9 +1,10 @@
 name: LanceDB
 slug: lancedb
-url: https://lancedb.com
+url: https://github.com/lancedb/lancedb
 category: vector-databases
 category_label: Vector Databases
-tagline: Embedded, columnar vector DB. Single-file, no server.
+tagline: Embedded vector database on the Lance columnar format. Runs in-process (Python,
+  TypeScript, Rust) on local disk or object storage, with no server.
 tags:
 - Linux
 - Windows
@@ -14,3 +15,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 8
+verified: '2026-10-05'

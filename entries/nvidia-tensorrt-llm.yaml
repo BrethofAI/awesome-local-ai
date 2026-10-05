@@ -3,14 +3,15 @@ slug: nvidia-tensorrt-llm
 url: https://github.com/NVIDIA/TensorRT-LLM
 category: hardware-specific-runtimes
 category_label: Hardware-Specific Runtimes
-tagline: NVIDIA's optimised LLM runtime for their data-center and consumer GPUs. Closed-weights
-  binary; fastest CUDA path for many models.
+tagline: NVIDIA's open-source (Apache-2.0) LLM inference library for NVIDIA GPUs,
+  Ampere to Blackwell, data-center and RTX. Linux only (x86_64 / aarch64); the fastest
+  CUDA path for many models.
 tags:
 - Linux
-- Windows
-- closed source
+- open source
 - free
 - Python
 list: local-ai
 added: '2026-04-30'
 category_order: 13
+verified: '2026-10-05'

@@ -3,7 +3,9 @@ slug: twinny
 url: https://github.com/twinnydotdev/twinny
 category: code-assistants
 category_label: Code Assistants
-tagline: Free local AI extension for VS Code. Chat + autocomplete via Ollama.
+tagline: 'VS Code assistant that stays on your network: autocomplete, chat, inline
+  edit, code review and an experimental agent mode against Ollama, LM Studio or llama.cpp.
+  MIT, no telemetry, no sign-in; an optional team gateway is paid above 5 seats.'
 tags:
 - Linux
 - Windows
@@ -14,3 +16,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 6
+verified: '2026-10-05'

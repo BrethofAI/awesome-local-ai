@@ -1,9 +1,11 @@
 name: Tabby
 slug: tabby
-url: https://tabby.tabbyml.com
+url: https://github.com/TabbyML/tabby
 category: code-assistants
 category_label: Code Assistants
-tagline: Self-hosted GitHub Copilot alternative. Local model serving with IDE plugins.
+tagline: 'Self-hosted GitHub Copilot alternative: local model serving with completion,
+  chat and IDE plugins, no DBMS or cloud needed. Development has slowed (last release
+  v0.32.0, Jan 2026).'
 tags:
 - Linux
 - Windows
@@ -14,3 +16,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 6
+verified: '2026-10-05'

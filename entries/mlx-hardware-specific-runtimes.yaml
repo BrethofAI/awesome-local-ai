@@ -1,10 +1,11 @@
-name: MLX
+name: MLX LM
 slug: mlx-hardware-specific-runtimes
-url: https://github.com/ml-explore/mlx
+url: https://github.com/ml-explore/mlx-lm
 category: hardware-specific-runtimes
 category_label: Hardware-Specific Runtimes
-tagline: Apple Silicon-native ML library. Already listed under training; it also ships
-  an inference runtime competitive with llama.cpp on M-series.
+tagline: Apple's LLM runtime on MLX for Apple Silicon. Generate, quantise, serve and
+  LoRA/full-fine-tune Hugging Face models (pip install mlx-lm); the engine behind
+  LM Studio's MLX backend.
 tags:
 - macOS
 - open source
@@ -13,3 +14,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 13
+verified: '2026-10-05'

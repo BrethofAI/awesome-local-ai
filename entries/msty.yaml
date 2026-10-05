@@ -1,17 +1,19 @@
 name: Msty Studio
 slug: msty
-url: https://msty.ai
+url: https://msty.ai/products/studio/
 category: desktop-chat-apps
 category_label: Desktop Chat Apps
-tagline: Desktop chat with branching conversations and parallel-model comparison; local engines
-  (Ollama, llama.cpp, MLX) are in the free tier.
+tagline: Desktop chat with branching conversations and parallel-model comparison;
+  local engines (Ollama, llama.cpp, MLX) are in the free tier.
 tags:
 - Linux
 - Windows
 - macOS
 - closed source
 - free
+- paid
 - TypeScript
 list: local-ai
 added: '2026-04-30'
 category_order: 1
+verified: '2026-10-05'

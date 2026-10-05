@@ -3,8 +3,8 @@ slug: handy
 url: https://github.com/cjpais/Handy
 category: voice-speech-to-text
 category_label: Voice — Speech-to-Text
-tagline: Free, open-source push-to-talk dictation into any app, working completely offline
-  with Whisper or Parakeet models.
+tagline: Free, open-source push-to-talk dictation into any app, working completely
+  offline with Whisper or Parakeet models.
 tags:
 - Linux
 - Windows
@@ -15,3 +15,4 @@ tags:
 list: local-ai
 added: '2026-09-29'
 category_order: 2
+verified: '2026-10-05'

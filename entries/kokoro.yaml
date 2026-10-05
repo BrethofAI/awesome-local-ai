@@ -3,8 +3,8 @@ slug: kokoro
 url: https://huggingface.co/hexgrad/Kokoro-82M
 category: voice-text-to-speech
 category_label: Voice — Text-to-Speech
-tagline: Tiny 82M-param TTS model (Apache-2.0), surprisingly natural for the size and fine
-  on low-end hardware. Run it with [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI)
+tagline: Tiny 82M-param TTS model (Apache-2.0), surprisingly natural for the size
+  and fine on low-end hardware. Run it with [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI)
   (OpenAI-compatible server) or [kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx).
 tags:
 - Linux
@@ -16,3 +16,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 3
+verified: '2026-10-05'

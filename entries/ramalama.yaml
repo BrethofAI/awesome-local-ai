@@ -1,0 +1,18 @@
+name: RamaLama
+slug: ramalama
+url: https://github.com/containers/ramalama
+category: inference-runtimes
+category_label: Inference Runtimes
+tagline: Runs and serves models from Hugging Face, Ollama or OCI registries inside
+  GPU-matched containers (Podman/Docker) running llama.cpp or vLLM, so the host needs
+  no setup. Containers run with network access off. MIT.
+tags:
+- Linux
+- macOS
+- open source
+- free
+- Python
+list: local-ai
+added: '2026-10-05'
+category_order: 0
+verified: '2026-10-05'

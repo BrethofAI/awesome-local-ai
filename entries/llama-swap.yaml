@@ -1,0 +1,19 @@
+name: llama-swap
+slug: llama-swap
+url: https://github.com/mostlygeek/llama-swap
+category: inference-runtimes
+category_label: Inference Runtimes
+tagline: One Go binary and one config file that hot-swaps models on demand in front
+  of llama.cpp, vLLM, stable-diffusion.cpp, ComfyUI and other local servers, behind
+  a single OpenAI/Anthropic-compatible endpoint. MIT.
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Go
+list: local-ai
+added: '2026-10-05'
+category_order: 0
+verified: '2026-10-05'

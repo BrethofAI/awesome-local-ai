@@ -1,0 +1,19 @@
+name: Cline
+slug: cline
+url: https://github.com/cline/cline
+category: code-assistants
+category_label: Code Assistants
+tagline: Open-source coding agent for VS Code, JetBrains, the terminal and a desktop
+  app, with human-in-the-loop approval and MCP support. Runs fully locally against
+  Ollama, LM Studio or any OpenAI-compatible server. Apache-2.0.
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- TypeScript
+list: local-ai
+added: '2026-10-05'
+category_order: 6
+verified: '2026-10-05'

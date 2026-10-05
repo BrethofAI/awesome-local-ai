@@ -1,0 +1,18 @@
+name: sqlite-vec
+slug: sqlite-vec
+url: https://github.com/asg017/sqlite-vec
+category: vector-databases
+category_label: Vector Databases
+tagline: Vector-search extension for SQLite that runs anywhere SQLite does (desktop,
+  mobile, WASM), giving you a single-file local vector store. Pre-1.0 (alpha releases).
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- C/C++
+list: local-ai
+added: '2026-10-05'
+category_order: 8
+verified: '2026-10-05'

@@ -1,0 +1,19 @@
+name: Buzz
+slug: buzz
+url: https://github.com/chidiwilliams/buzz
+category: voice-speech-to-text
+category_label: Voice — Speech-to-Text
+tagline: Desktop app that transcribes and translates audio offline with Whisper (whisper.cpp
+  with Vulkan, CUDA, Apple Silicon). Handles live microphone input, files and folders,
+  speaker identification, and exports TXT/SRT/VTT. MIT.
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Python
+list: local-ai
+added: '2026-10-05'
+category_order: 2
+verified: '2026-10-05'

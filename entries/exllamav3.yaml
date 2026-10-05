@@ -3,8 +3,8 @@ slug: exllamav3
 url: https://github.com/turboderp-org/exllamav3
 category: inference-runtimes
 category_label: Inference Runtimes
-tagline: Fast quantised-LLM inference on consumer NVIDIA GPUs; successor to ExLlamaV2 (archived
-  by its author). Serve it with [TabbyAPI](https://github.com/theroyallab/tabbyAPI).
+tagline: Fast quantised-LLM inference on consumer NVIDIA GPUs; successor to ExLlamaV2
+  (archived by its author). Serve it with [TabbyAPI](https://github.com/theroyallab/tabbyAPI).
 tags:
 - Linux
 - Windows
@@ -14,3 +14,4 @@ tags:
 list: local-ai
 added: '2026-09-29'
 category_order: 0
+verified: '2026-10-05'

@@ -3,14 +3,15 @@ slug: llama-vim
 url: https://github.com/ggml-org/llama.vim
 category: code-assistants
 category_label: Code Assistants
-tagline: Vim plugin that streams llama.cpp completions inline. No cloud.
+tagline: Vim/Neovim plugin for fill-in-the-middle completions and instruction-based
+  editing from a local llama.cpp server. No cloud.
 tags:
 - Linux
 - Windows
 - macOS
 - open source
 - free
-- C/C++
 list: local-ai
 added: '2026-04-30'
 category_order: 6
+verified: '2026-10-05'

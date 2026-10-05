@@ -3,14 +3,16 @@ slug: rocm-llama-cpp-hip
 url: https://github.com/ggml-org/llama.cpp
 category: hardware-specific-runtimes
 category_label: Hardware-Specific Runtimes
-tagline: AMD GPU inference path. Llama.cpp's HIP backend now reaches CUDA parity on
-  RDNA 3/4 in many workloads.
+tagline: AMD GPU path for llama.cpp. Its HIP/ROCm backend ships prebuilt ROCm 10.0
+  binaries for Linux and Windows with every release; the Vulkan backend is the fallback
+  for Radeon cards ROCm does not support.
 tags:
 - Linux
 - Windows
-- macOS
 - open source
+- free
 - C/C++
 list: local-ai
 added: '2026-04-30'
 category_order: 13
+verified: '2026-10-05'

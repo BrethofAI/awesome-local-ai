@@ -3,9 +3,9 @@ slug: nanoavatar
 url: https://github.com/wpydcr/NanoAvatar
 category: video-generation
 category_label: Video Generation
-tagline: Audio-driven talking avatars generated on an Android phone; Experience mode runs
-  fully offline, no account or API key. Code MIT; the lip-sync weights and default avatar
-  are CC BY-NC 4.0 (non-commercial).
+tagline: Audio-driven talking avatars generated on an Android phone; Experience mode
+  runs fully offline, no account or API key. Code MIT; the lip-sync weights and default
+  avatar are CC BY-NC 4.0 (non-commercial).
 tags:
 - mobile
 - open source
@@ -13,3 +13,4 @@ tags:
 list: local-ai
 added: '2026-09-29'
 category_order: 5
+verified: '2026-10-05'

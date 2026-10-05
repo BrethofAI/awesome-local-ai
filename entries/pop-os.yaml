@@ -1,10 +1,11 @@
 name: Pop!_OS
 slug: pop-os
-url: https://pop.system76.com
+url: https://system76.com/pop
 category: operating-systems-tuned-for-ai
 category_label: Operating Systems Tuned for AI
-tagline: System76's NVIDIA-friendly desktop distro. ISO ships with proprietary drivers
-  for plug-and-play GPU work.
+tagline: System76's Ubuntu-based distro (24.04 LTS, COSMIC desktop) with dedicated
+  NVIDIA ISOs, x86-64 and ARM64, that ship the proprietary driver for plug-and-play
+  GPU work.
 tags:
 - Linux
 - open source
@@ -12,3 +13,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 12
+verified: '2026-10-05'

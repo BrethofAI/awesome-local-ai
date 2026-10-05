@@ -1,0 +1,20 @@
+name: sherpa-onnx
+slug: sherpa-onnx
+url: https://github.com/k2-fsa/sherpa-onnx
+category: voice-speech-to-text
+category_label: Voice — Speech-to-Text
+tagline: 'Offline speech toolkit from the Next-gen Kaldi team, on onnxruntime with
+  no internet: streaming and file STT, TTS, VAD, diarization, keyword spotting and
+  speech enhancement on Linux, Windows, macOS, Android, iOS and Raspberry Pi. Apache-2.0.'
+tags:
+- Linux
+- Windows
+- macOS
+- mobile
+- open source
+- free
+- C/C++
+list: local-ai
+added: '2026-10-05'
+category_order: 2
+verified: '2026-10-05'

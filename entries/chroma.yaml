@@ -1,10 +1,11 @@
 name: Chroma
 slug: chroma
-url: https://www.trychroma.com
+url: https://github.com/chroma-core/chroma
 category: vector-databases
 category_label: Vector Databases
-tagline: Embedding database designed for local-first usage. SQLite-style single-file
-  or client/server.
+tagline: Open-source (Apache-2.0) embedding database. Use it in-process with on-disk
+  persistence (pip install chromadb) or as a local server (chroma run); Chroma Cloud
+  is optional.
 tags:
 - Linux
 - Windows
@@ -15,3 +16,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 8
+verified: '2026-10-05'

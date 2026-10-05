@@ -1,6 +1,6 @@
 name: LlamaIndex
 slug: llamaindex
-url: https://www.llamaindex.ai
+url: https://github.com/run-llama/llama_index
 category: local-search-rag
 category_label: Local Search & RAG
 tagline: Toolkit for building RAG pipelines. Works fully offline with local models
@@ -15,3 +15,4 @@ tags:
 list: local-ai
 added: '2026-04-30'
 category_order: 11
+verified: '2026-10-05'
