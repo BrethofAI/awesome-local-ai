@@ -41,6 +41,7 @@ stops working or goes six months without a release, commit or merged PR.
 We decline only tools with nothing real to point at, misleading claims,
 or no local mode at all.
 
+<!-- github-only -->
 ## Legend
 
 - 🐧 Linux · 🪟 Windows · 🍎 macOS · 📱 iOS / Android · 🌐 Web (in-browser)
@@ -48,7 +49,9 @@ or no local mode at all.
 - 🆓 free for personal · 💰 paid · 🆓💰 free + paid tiers
 - 🐍 Python · 🦀 Rust · 🐹 Go · ⚙️ C/C++ · 🟦 TypeScript / JS
 - 🆕 new — listed in the last 60 days
+<!-- /github-only -->
 
+<!-- LIST:START -->
 ## Contents
 
 - [Inference Runtimes](#inference-runtimes) (13)
@@ -269,6 +272,8 @@ The two distros that come ready for local AI out of the box. The full, ranked co
   Intel's inference toolkit. CPU, iGPU, dGPU (Arc), and NPU support for Intel laptops.
 - **[ROCm + llama.cpp HIP](https://github.com/ggml-org/llama.cpp)** — 🐧 🪟 🍎 🔓 ⚙️  
   AMD GPU inference path. Llama.cpp's HIP backend now reaches CUDA parity on RDNA 3/4 in many workloads.
+
+<!-- LIST:END -->
 
 ## Related work
 

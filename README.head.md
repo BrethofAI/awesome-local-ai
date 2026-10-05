@@ -41,6 +41,7 @@ stops working or goes six months without a release, commit or merged PR.
 We decline only tools with nothing real to point at, misleading claims,
 or no local mode at all.
 
+<!-- github-only -->
 ## Legend
 
 - 🐧 Linux · 🪟 Windows · 🍎 macOS · 📱 iOS / Android · 🌐 Web (in-browser)
@@ -48,3 +49,4 @@ or no local mode at all.
 - 🆓 free for personal · 💰 paid · 🆓💰 free + paid tiers
 - 🐍 Python · 🦀 Rust · 🐹 Go · ⚙️ C/C++ · 🟦 TypeScript / JS
 - 🆕 new — listed in the last 60 days
+<!-- /github-only -->
