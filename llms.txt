@@ -1,0 +1,9 @@
+# awesome-local-ai
+
+> A curated list of AI tools that run entirely on local hardware without cloud dependencies or telemetry.
+
+The project is a static documentation list maintained by Brethof AI. It categorizes tools into sections like inference runtimes, voice, and vector databases. Entries include platform, license, and language metadata.
+
+## Docs
+
+- [awesome-local-ai](https://raw.githubusercontent.com/BrethofAI/awesome-local-ai/main/README.md): Curated list of fully local AI tools with strict inclusion rules and verifiable provenance.
