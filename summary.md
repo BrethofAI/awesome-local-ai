@@ -1,3 +1,18 @@
-## Facts 2026-10-05 — 84 entries, 0 change(s) (first run: baseline only)
+## Facts 2026-10-12 — 84 entries, 16 change(s)
 
-No changes.
+- **release** Cline: desktop-v0.0.43 → desktop-v0.0.45 (2026-10-08)
+- **release** ComfyUI: v0.38.0 → v0.39.0 (2026-10-05)
+- **release** ComfyUI + LTX Video: v0.38.0 → v0.39.0 (2026-10-05)
+- **release** ExLlamaV3: v1.5.4 → v1.6.1 (2026-10-10)
+- **release** fastembed: v0.8.1 → v0.9.0 (2026-10-07)
+- **release** Forge Classic / Neo: 2.29.2 → 2.30 (2026-10-08)
+- **release** goose: v1.53.0 → v1.54.0 (2026-10-08)
+- **release** LanceDB: v0.39.0 → v0.40.0 (2026-10-07)
+- **release** Lemonade: v2026.40.0 → v2026.41.1 (2026-10-07)
+- **release** llama.cpp: v0.5.0 → v0.6.0 (2026-10-05)
+- **release** llama-swap: v262 → v263 (2026-10-10)
+- **release** Mold: v0.32.0 → v0.34.0 (2026-10-09)
+- **release** Open Interpreter: rust-v0.0.55 → rust-v0.0.56 (2026-10-07)
+- **release** ROCm + llama.cpp HIP: v0.5.0 → v0.6.0 (2026-10-05)
+- **renamed** Wan2GP: deepbeepmeep/Wan2GP → deepbeepmeep/WanGP
+- **release** Whisper.cpp: v1.9.4 → v1.9.5 (2026-10-06)
