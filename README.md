@@ -76,7 +76,7 @@ or no local mode at all.
 Engines that load LLMs, vision models, and other neural networks for inference on your hardware.
 
 - **[ExLlamaV3](https://github.com/turboderp-org/exllamav3)** — 🆕 🐧 🪟 🔓 🆓 🐍  
-  Fast quantised-LLM inference on consumer NVIDIA GPUs; successor to ExLlamaV2 (archived by its author). Serve it with [TabbyAPI](https://github.com/theroyallab/tabbyAPI).  
+  Fast quantised-LLM inference on consumer NVIDIA GPUs, with preliminary ROCm support for recent AMD GPUs (RDNA 3 and newer); successor to ExLlamaV2 (archived by its author). Serve it with [TabbyAPI](https://github.com/theroyallab/tabbyAPI).  
   <sub>★ 1.6k · v1.5.4 (2026-10-03)</sub>
 - **[Jan](https://jan.ai)** — 🐧 🪟 🍎 🔓 🆓 🟦  
   Open-source ChatGPT alternative. Bundles llama.cpp + a clean UI.
@@ -218,8 +218,8 @@ GUI applications wrapping a local runtime in a chat interface.
 - **[NanoAvatar](https://github.com/wpydcr/NanoAvatar)** — 🆕 📱 🔓 🆓  
   Audio-driven talking avatars generated on an Android phone; Experience mode runs fully offline, no account or API key. Code MIT; the lip-sync weights and default avatar are CC BY-NC 4.0 (non-commercial).  
   <sub>★ 20 · v1.0.0-20260912 (2026-09-12)</sub>
-- **[Wan2GP](https://github.com/deepbeepmeep/Wan2GP)** — 🐧 🪟 🍎 source-available 🆓 🐍  
-  Low-VRAM video, image and audio generator for consumer GPUs ("for the GPU Poor"), covering Wan 2.1/2.2, LTX-2, Hunyuan Video, Qwen Image, Z-Image, Flux and Qwen3 TTS in one web UI.  
+- **[WanGP](https://github.com/deepbeepmeep/WanGP)** — 🐧 🪟 🍎 source-available 🆓 🐍  
+  Low-VRAM video, image and audio generator for consumer GPUs ("for the GPU Poor"), covering Wan 2.1/2.2, LTX-2, Hunyuan Video, Qwen Image, Z-Image, Flux and Qwen3 TTS in one web UI. Formerly Wan2GP.  
   <sub>★ 10k · last push 2026-10-01</sub>
 
 ## Code Assistants
