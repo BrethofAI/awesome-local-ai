@@ -1,8 +1,8 @@
 {
- "checked": "2026-10-12",
+ "checked": "2026-10-18",
  "entries": {
   "aider": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Aider",
    "url": "https://aider.chat",
    "web": {
@@ -12,7 +12,7 @@
    }
   },
   "aider-in-architect-mode": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Aider in /architect mode",
    "url": "https://aider.chat/docs/usage/modes.html",
    "web": {
@@ -22,7 +22,7 @@
    }
   },
   "anything-llm": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Anything LLM",
    "url": "https://anythingllm.com",
    "web": {
@@ -32,7 +32,7 @@
    }
   },
   "anything-llm-local-search-rag": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Anything LLM",
    "url": "https://anythingllm.com",
    "web": {
@@ -42,23 +42,23 @@
    }
   },
   "axolotl": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Go ahead and axolotl questions",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-10",
-    "release": "v0.20.0",
-    "released": "2026-09-30",
+    "pushed": "2026-10-18",
+    "release": "v0.21.0",
+    "released": "2026-10-16",
     "repo": "axolotl-ai-cloud/axolotl",
-    "stars": 12556
+    "stars": 12591
    },
    "github_ref": "axolotl-ai-cloud/axolotl",
    "name": "Axolotl",
    "url": "https://github.com/axolotl-ai-cloud/axolotl"
   },
   "bge": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Retrieval and Retrieval-augmented LLMs",
@@ -67,14 +67,14 @@
     "release": "v1.4.2",
     "released": "2026-08-24",
     "repo": "FlagOpen/FlagEmbedding",
-    "stars": 12230
+    "stars": 12259
    },
    "github_ref": "FlagOpen/FlagEmbedding",
    "name": "BGE",
    "url": "https://github.com/FlagOpen/FlagEmbedding"
   },
   "brethof-voice-pro": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Brethof Voice Pro",
    "url": "https://brethof.ai/voice/",
    "web": {
@@ -84,23 +84,23 @@
    }
   },
   "buzz": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
     "licence": "MIT",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-17",
     "release": "v1.4.5",
     "released": "2026-08-23",
     "repo": "chidiwilliams/buzz",
-    "stars": 21938
+    "stars": 22063
    },
    "github_ref": "chidiwilliams/buzz",
    "name": "Buzz",
    "url": "https://github.com/chidiwilliams/buzz"
   },
   "cachyos": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "CachyOS",
    "url": "https://cachyos.org",
    "web": {
@@ -110,7 +110,7 @@
    }
   },
   "chatterbox": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "SoTA open-source TTS",
@@ -119,83 +119,83 @@
     "release": "v0.1.2",
     "released": "2025-06-13",
     "repo": "resemble-ai/chatterbox",
-    "stars": 26860
+    "stars": 27056
    },
    "github_ref": "resemble-ai/chatterbox",
    "name": "Chatterbox",
    "url": "https://github.com/resemble-ai/chatterbox"
   },
   "chroma": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Search infrastructure for AI",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-10",
+    "pushed": "2026-10-17",
     "release": "1.5.9",
     "released": "2026-05-05",
     "repo": "chroma-core/chroma",
-    "stars": 29482
+    "stars": 29523
    },
    "github_ref": "chroma-core/chroma",
    "name": "Chroma",
    "url": "https://github.com/chroma-core/chroma"
   },
   "cline": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-11",
-    "release": "desktop-v0.0.45",
-    "released": "2026-10-08",
+    "pushed": "2026-10-18",
+    "release": "v4.1.25",
+    "released": "2026-10-16",
     "repo": "cline/cline",
-    "stars": 70177
+    "stars": 70514
    },
    "github_ref": "cline/cline",
    "name": "Cline",
    "url": "https://github.com/cline/cline"
   },
   "comfyui": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
     "licence": "GPL-3.0",
-    "pushed": "2026-10-11",
-    "release": "v0.39.0",
-    "released": "2026-10-05",
+    "pushed": "2026-10-18",
+    "release": "v0.42.0",
+    "released": "2026-10-18",
     "repo": "Comfy-Org/ComfyUI",
-    "stars": 136948
+    "stars": 138566
    },
    "github_ref": "Comfy-Org/ComfyUI",
    "name": "ComfyUI",
    "url": "https://github.com/Comfy-Org/ComfyUI"
   },
   "comfyui-ltx-video": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
     "licence": "GPL-3.0",
-    "pushed": "2026-10-11",
-    "release": "v0.39.0",
-    "released": "2026-10-05",
+    "pushed": "2026-10-18",
+    "release": "v0.42.0",
+    "released": "2026-10-18",
     "repo": "Comfy-Org/ComfyUI",
-    "stars": 136948
+    "stars": 138566
    },
    "github_ref": "Comfy-Org/ComfyUI",
    "name": "ComfyUI + LTX Video",
    "url": "https://github.com/Comfy-Org/ComfyUI"
   },
   "coqui-tts": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
     "licence": "MPL-2.0",
-    "pushed": "2026-10-02",
+    "pushed": "2026-10-18",
     "release": "v0.27.5",
     "released": "2026-01-26",
     "repo": "idiap/coqui-ai-TTS",
@@ -206,7 +206,7 @@
    "url": "https://github.com/idiap/coqui-ai-TTS"
   },
   "dictamelo": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "MIT-licensed voice dictation for macOS and Windows with local Whisper, Parakeet and Canary models, plus optional cloud transcription | Rust + Tauri",
@@ -222,140 +222,140 @@
    "url": "https://github.com/sarrazola/dictamelo"
   },
   "diffusion-pipe": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A pipeline parallel training script for diffusion models.",
     "licence": "GPL-3.0",
-    "pushed": "2026-09-28",
+    "pushed": "2026-10-18",
     "release": null,
     "released": null,
     "repo": "tdrussell/diffusion-pipe",
-    "stars": 2029
+    "stars": 2033
    },
    "github_ref": "tdrussell/diffusion-pipe",
    "name": "diffusion-pipe",
    "url": "https://github.com/tdrussell/diffusion-pipe"
   },
   "exllamav3": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "An optimized quantization and inference library for running LLMs locally on modern consumer-class GPUs ",
     "licence": "MIT",
-    "pushed": "2026-10-11",
-    "release": "v1.6.1",
-    "released": "2026-10-10",
+    "pushed": "2026-10-18",
+    "release": "v1.6.3",
+    "released": "2026-10-17",
     "repo": "turboderp-org/exllamav3",
-    "stars": 1643
+    "stars": 1697
    },
    "github_ref": "turboderp-org/exllamav3",
    "name": "ExLlamaV3",
    "url": "https://github.com/turboderp-org/exllamav3"
   },
   "faiss": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A library for efficient similarity search and clustering of dense vectors.",
     "licence": "MIT",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": "v1.15.1",
     "released": "2026-09-16",
     "repo": "facebookresearch/faiss",
-    "stars": 41130
+    "stars": 41163
    },
    "github_ref": "facebookresearch/faiss",
    "name": "Faiss",
    "url": "https://github.com/facebookresearch/faiss"
   },
   "fastembed": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-09",
+    "pushed": "2026-10-16",
     "release": "v0.9.0",
     "released": "2026-10-07",
     "repo": "qdrant/fastembed",
-    "stars": 3240
+    "stars": 3247
    },
    "github_ref": "qdrant/fastembed",
    "name": "fastembed",
    "url": "https://github.com/qdrant/fastembed"
   },
   "faster-whisper": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Faster Whisper transcription with CTranslate2",
     "licence": "MIT",
-    "pushed": "2026-10-10",
+    "pushed": "2026-10-16",
     "release": "v1.2.1",
     "released": "2025-10-31",
     "repo": "SYSTRAN/faster-whisper",
-    "stars": 25810
+    "stars": 25948
    },
    "github_ref": "SYSTRAN/faster-whisper",
    "name": "faster-whisper",
    "url": "https://github.com/SYSTRAN/faster-whisper"
   },
   "forge": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "The good ol' Forge WebUI, now updated with new features~",
     "licence": "AGPL-3.0",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": "2.30",
     "released": "2026-10-08",
     "repo": "Haoming02/sd-webui-forge-classic",
-    "stars": 1806
+    "stars": 1826
    },
    "github_ref": "Haoming02/sd-webui-forge-classic",
    "name": "Forge Classic / Neo",
    "url": "https://github.com/Haoming02/sd-webui-forge-classic"
   },
   "goose": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-11",
-    "release": "v1.54.0",
-    "released": "2026-10-08",
+    "pushed": "2026-10-18",
+    "release": "v1.55.0",
+    "released": "2026-10-16",
     "repo": "aaif-goose/goose",
-    "stars": 55167
+    "stars": 55418
    },
    "github_ref": "aaif-goose/goose",
    "name": "goose",
    "url": "https://github.com/aaif-goose/goose"
   },
   "handy": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
     "licence": "MIT",
-    "pushed": "2026-10-10",
+    "pushed": "2026-10-15",
     "release": "v0.9.8",
     "released": "2026-10-03",
     "repo": "cjpais/Handy",
-    "stars": 33541
+    "stars": 34096
    },
    "github_ref": "cjpais/Handy",
    "name": "Handy",
    "url": "https://github.com/cjpais/Handy"
   },
   "hyperconsciousness": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "iCloud for agents. An encrypted, permissioned knowledge layer for humans and agents.",
     "licence": "MIT",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-15",
     "release": null,
     "released": null,
     "repo": "louis030195/hyperconsciousness",
@@ -366,7 +366,7 @@
    "url": "https://github.com/louis030195/hyperconsciousness"
   },
   "invokeai": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "InvokeAI",
    "url": "https://invoke.ai",
    "web": {
@@ -376,7 +376,7 @@
    }
   },
   "jan": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Jan",
    "url": "https://jan.ai",
    "web": {
@@ -386,23 +386,23 @@
    }
   },
   "koboldcpp": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.",
     "licence": "AGPL-3.0",
-    "pushed": "2026-10-11",
-    "release": "v1.122.1",
-    "released": "2026-09-26",
+    "pushed": "2026-10-18",
+    "release": "v1.123.1",
+    "released": "2026-10-13",
     "repo": "LostRuins/koboldcpp",
-    "stars": 11989
+    "stars": 12024
    },
    "github_ref": "LostRuins/koboldcpp",
    "name": "KoboldCpp",
    "url": "https://github.com/LostRuins/koboldcpp"
   },
   "kokoro": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Kokoro",
    "url": "https://huggingface.co/hexgrad/Kokoro-82M",
    "web": {
@@ -412,71 +412,71 @@
    }
   },
   "lancedb": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": "v0.40.0",
     "released": "2026-10-07",
     "repo": "lancedb/lancedb",
-    "stars": 11642
+    "stars": 11695
    },
    "github_ref": "lancedb/lancedb",
    "name": "LanceDB",
    "url": "https://github.com/lancedb/lancedb"
   },
   "lemonade": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-11",
-    "release": "v2026.41.1",
-    "released": "2026-10-07",
+    "pushed": "2026-10-18",
+    "release": "v2026.42.1",
+    "released": "2026-10-14",
     "repo": "lemonade-sdk/lemonade",
-    "stars": 5872
+    "stars": 5929
    },
    "github_ref": "lemonade-sdk/lemonade",
    "name": "Lemonade",
    "url": "https://github.com/lemonade-sdk/lemonade"
   },
   "llama-cpp": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "LLM inference in C/C++",
     "licence": "MIT",
-    "pushed": "2026-10-11",
-    "release": "v0.6.0",
-    "released": "2026-10-05",
+    "pushed": "2026-10-18",
+    "release": "v0.7.0",
+    "released": "2026-10-15",
     "repo": "ggml-org/llama.cpp",
-    "stars": 130855
+    "stars": 131627
    },
    "github_ref": "ggml-org/llama.cpp",
    "name": "llama.cpp",
    "url": "https://github.com/ggml-org/llama.cpp"
   },
   "llama-swap": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc",
     "licence": "MIT",
-    "pushed": "2026-10-11",
-    "release": "v263",
-    "released": "2026-10-10",
+    "pushed": "2026-10-15",
+    "release": "v265",
+    "released": "2026-10-14",
     "repo": "mostlygeek/llama-swap",
-    "stars": 5928
+    "stars": 6009
    },
    "github_ref": "mostlygeek/llama-swap",
    "name": "llama-swap",
    "url": "https://github.com/mostlygeek/llama-swap"
   },
   "llama-vim": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Vim plugin for LLM-assisted code/text completion",
@@ -485,46 +485,46 @@
     "release": "v0.1.0",
     "released": "2026-08-24",
     "repo": "ggml-org/llama.vim",
-    "stars": 2185
+    "stars": 2189
    },
    "github_ref": "ggml-org/llama.vim",
    "name": "Llama.vim",
    "url": "https://github.com/ggml-org/llama.vim"
   },
   "llamafile": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Distribute and run LLMs with a single file.",
     "licence": "NOASSERTION",
-    "pushed": "2026-10-08",
+    "pushed": "2026-10-12",
     "release": "0.10.6",
     "released": "2026-09-15",
     "repo": "mozilla-ai/llamafile",
-    "stars": 26224
+    "stars": 26422
    },
    "github_ref": "mozilla-ai/llamafile",
    "name": "llamafile",
    "url": "https://github.com/mozilla-ai/llamafile"
   },
   "llamaindex": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "LlamaIndex is the document processing platform for AI",
     "licence": "MIT",
-    "pushed": "2026-10-08",
+    "pushed": "2026-10-14",
     "release": "v0.14.25",
     "released": "2026-09-21",
     "repo": "run-llama/llama_index",
-    "stars": 52465
+    "stars": 52554
    },
    "github_ref": "run-llama/llama_index",
    "name": "LlamaIndex",
    "url": "https://github.com/run-llama/llama_index"
   },
   "lm-studio": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "LM Studio",
    "url": "https://lmstudio.ai/download",
    "web": {
@@ -534,7 +534,7 @@
    }
   },
   "localai": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "LocalAI",
    "url": "https://localai.io",
    "web": {
@@ -544,23 +544,23 @@
    }
   },
   "mistral-rs": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Fast, flexible LLM inference",
     "licence": "MIT",
-    "pushed": "2026-10-01",
+    "pushed": "2026-10-18",
     "release": "v0.9.4",
     "released": "2026-09-24",
     "repo": "EricLBuehler/mistral.rs",
-    "stars": 7737
+    "stars": 7757
    },
    "github_ref": "EricLBuehler/mistral.rs",
    "name": "Mistral.rs",
    "url": "https://github.com/EricLBuehler/mistral.rs"
   },
   "mlc-llm": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "MLC LLM",
    "url": "https://llm.mlc.ai",
    "web": {
@@ -570,55 +570,55 @@
    }
   },
   "mlx": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "MLX: An array framework for Apple silicon",
     "licence": "MIT",
-    "pushed": "2026-10-10",
-    "release": "v0.32.3",
-    "released": "2026-09-29",
+    "pushed": "2026-10-16",
+    "release": "v0.32.4",
+    "released": "2026-10-14",
     "repo": "ml-explore/mlx",
-    "stars": 28727
+    "stars": 28838
    },
    "github_ref": "ml-explore/mlx",
    "name": "MLX",
    "url": "https://github.com/ml-explore/mlx"
   },
   "mlx-hardware-specific-runtimes": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Run LLMs with MLX",
     "licence": "MIT",
-    "pushed": "2026-10-10",
-    "release": "v0.31.3",
-    "released": "2026-04-22",
+    "pushed": "2026-10-17",
+    "release": "v0.32.2",
+    "released": "2026-10-16",
     "repo": "ml-explore/mlx-lm",
-    "stars": 7270
+    "stars": 7395
    },
    "github_ref": "ml-explore/mlx-lm",
    "name": "MLX LM",
    "url": "https://github.com/ml-explore/mlx-lm"
   },
   "mold": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "CLI-native local AI image and video generation for people, scripts, and agents — CUDA on Linux, Metal on macOS, plus desktop, web, iPhone, REST/SSE, and MCP.",
     "licence": "MIT",
-    "pushed": "2026-10-12",
-    "release": "v0.34.0",
-    "released": "2026-10-09",
+    "pushed": "2026-10-18",
+    "release": "v0.36.0",
+    "released": "2026-10-13",
     "repo": "utensils/mold",
-    "stars": 52
+    "stars": 54
    },
    "github_ref": "utensils/mold",
    "name": "Mold",
    "url": "https://github.com/utensils/mold"
   },
   "moonshine": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
@@ -627,14 +627,14 @@
     "release": "v0.1.5",
     "released": "2026-08-24",
     "repo": "moonshine-ai/moonshine",
-    "stars": 11211
+    "stars": 11255
    },
    "github_ref": "moonshine-ai/moonshine",
    "name": "Moonshine",
    "url": "https://github.com/moonshine-ai/moonshine"
   },
   "msty": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Msty Studio",
    "url": "https://msty.ai/products/studio/",
    "web": {
@@ -644,39 +644,39 @@
    }
   },
   "nanoavatar": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Real-time, high-quality talking avatars, even on a old Android phone: 41 FPS with just 103 ms to the first frame.",
     "licence": "NOASSERTION",
-    "pushed": "2026-09-16",
-    "release": "v1.0.0-20260912",
-    "released": "2026-09-12",
+    "pushed": "2026-10-13",
+    "release": "v1.0.2-20261014",
+    "released": "2026-10-13",
     "repo": "wpydcr/NanoAvatar",
-    "stars": 23
+    "stars": 24
    },
    "github_ref": "wpydcr/NanoAvatar",
    "name": "NanoAvatar",
    "url": "https://github.com/wpydcr/NanoAvatar"
   },
   "nvidia-tensorrt-llm": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
     "licence": "NOASSERTION",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": "v1.2.1",
     "released": "2026-04-20",
     "repo": "NVIDIA/TensorRT-LLM",
-    "stars": 14794
+    "stars": 14850
    },
    "github_ref": "NVIDIA/TensorRT-LLM",
    "name": "NVIDIA TensorRT-LLM",
    "url": "https://github.com/NVIDIA/TensorRT-LLM"
   },
   "ollama": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Ollama",
    "url": "https://ollama.com",
    "web": {
@@ -686,7 +686,7 @@
    }
   },
   "open-interpreter": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
@@ -695,14 +695,14 @@
     "release": "rust-v0.0.56",
     "released": "2026-10-07",
     "repo": "openinterpreter/openinterpreter",
-    "stars": 68552
+    "stars": 68604
    },
    "github_ref": "openinterpreter/openinterpreter",
    "name": "Open Interpreter",
    "url": "https://github.com/openinterpreter/openinterpreter"
   },
   "open-webui": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Open WebUI",
    "url": "https://openwebui.com",
    "web": {
@@ -712,7 +712,7 @@
    }
   },
   "openai-whisper": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
@@ -721,46 +721,46 @@
     "release": "v20250625",
     "released": "2025-06-26",
     "repo": "openai/whisper",
-    "stars": 110333
+    "stars": 110830
    },
    "github_ref": "openai/whisper",
    "name": "OpenAI Whisper",
    "url": "https://github.com/openai/whisper"
   },
   "openvino": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-17",
     "release": "2026.4.1",
     "released": "2026-10-01",
     "repo": "openvinotoolkit/openvino",
-    "stars": 10982
+    "stars": 11019
    },
    "github_ref": "openvinotoolkit/openvino",
    "name": "OpenVINO",
    "url": "https://github.com/openvinotoolkit/openvino"
   },
   "ostris-ai-toolkit": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "The ultimate training toolkit for finetuning diffusion models",
     "licence": "MIT",
-    "pushed": "2026-10-10",
+    "pushed": "2026-10-18",
     "release": null,
     "released": null,
     "repo": "ostris/ai-toolkit",
-    "stars": 12268
+    "stars": 12351
    },
    "github_ref": "ostris/ai-toolkit",
    "name": "AI Toolkit (Ostris)",
    "url": "https://github.com/ostris/ai-toolkit"
   },
   "parakeet": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "NVIDIA Parakeet TDT 0.6B v3",
    "url": "https://huggingface.co/nvidia/parakeet-tdt-0.6b-v3",
    "web": {
@@ -770,7 +770,7 @@
    }
   },
   "perplexica": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Vane is an AI-powered answering engine.",
@@ -779,46 +779,46 @@
     "release": "v1.12.2",
     "released": "2026-04-10",
     "repo": "ItzCrazyKns/Vane",
-    "stars": 37253
+    "stars": 37388
    },
    "github_ref": "ItzCrazyKns/Vane",
    "name": "Vane (formerly Perplexica)",
    "url": "https://github.com/ItzCrazyKns/Vane"
   },
   "piper": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Fast and local neural text-to-speech engine",
     "licence": "GPL-3.0",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-17",
     "release": "v1.8.0",
     "released": "2026-09-04",
     "repo": "OHF-Voice/piper1-gpl",
-    "stars": 5828
+    "stars": 5913
    },
    "github_ref": "OHF-Voice/piper1-gpl",
    "name": "Piper",
    "url": "https://github.com/OHF-Voice/piper1-gpl"
   },
   "pocket-tts": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A TTS that fits in your CPU (and pocket)",
     "licence": "MIT",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-17",
     "release": "v3.3.0",
     "released": "2026-09-24",
     "repo": "kyutai-labs/pocket-tts",
-    "stars": 9868
+    "stars": 9919
    },
    "github_ref": "kyutai-labs/pocket-tts",
    "name": "Kyutai Pocket TTS",
    "url": "https://github.com/kyutai-labs/pocket-tts"
   },
   "pop-os": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Pop!_OS",
    "url": "https://system76.com/pop",
    "web": {
@@ -828,23 +828,23 @@
    }
   },
   "privategpt": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-09",
+    "pushed": "2026-10-16",
     "release": "v1.0.1",
     "released": "2026-06-18",
     "repo": "zylon-ai/private-gpt",
-    "stars": 57565
+    "stars": 57591
    },
    "github_ref": "zylon-ai/private-gpt",
    "name": "PrivateGPT",
    "url": "https://github.com/zylon-ai/private-gpt"
   },
   "qdrant": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Qdrant",
    "url": "https://qdrant.tech",
    "web": {
@@ -854,7 +854,7 @@
    }
   },
   "radiant-canvas": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Radiant Canvas (formerly Krealize)",
    "url": "https://radiantbeargames.com/radiant-canvas",
    "web": {
@@ -864,87 +864,87 @@
    }
   },
   "ramalama": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "RamaLama is an open-source developer tool that simplifies the local serving of AI models from any source and facilitates their use for inference in production, all through the familiar language of containers.",
     "licence": "MIT",
-    "pushed": "2026-10-12",
+    "pushed": "2026-10-17",
     "release": "v0.25.0",
     "released": "2026-09-25",
     "repo": "containers/ramalama",
-    "stars": 3080
+    "stars": 3086
    },
    "github_ref": "containers/ramalama",
    "name": "RamaLama",
    "url": "https://github.com/containers/ramalama"
   },
   "realtimestt": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
     "licence": "MIT",
-    "pushed": "2026-09-17",
+    "pushed": "2026-10-18",
     "release": "v1.1.2",
     "released": "2026-08-30",
     "repo": "KoljaB/RealtimeSTT",
-    "stars": 10179
+    "stars": 10194
    },
    "github_ref": "KoljaB/RealtimeSTT",
    "name": "RealtimeSTT",
    "url": "https://github.com/KoljaB/RealtimeSTT"
   },
   "rocm-llama-cpp-hip": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "LLM inference in C/C++",
     "licence": "MIT",
-    "pushed": "2026-10-11",
-    "release": "v0.6.0",
-    "released": "2026-10-05",
+    "pushed": "2026-10-18",
+    "release": "v0.7.0",
+    "released": "2026-10-15",
     "repo": "ggml-org/llama.cpp",
-    "stars": 130855
+    "stars": 131627
    },
    "github_ref": "ggml-org/llama.cpp",
    "name": "ROCm + llama.cpp HIP",
    "url": "https://github.com/ggml-org/llama.cpp"
   },
   "sd-next": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "SD.Next: All-in-one WebUI for AI generative image and video creation, captioning and processing",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": null,
     "released": null,
     "repo": "vladmandic/sdnext",
-    "stars": 7351
+    "stars": 7355
    },
    "github_ref": "vladmandic/sdnext",
    "name": "SD.Next",
    "url": "https://github.com/vladmandic/sdnext"
   },
   "searxng": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
     "licence": "AGPL-3.0",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": null,
     "released": null,
     "repo": "searxng/searxng",
-    "stars": 38237
+    "stars": 38558
    },
    "github_ref": "searxng/searxng",
    "name": "SearXNG",
    "url": "https://github.com/searxng/searxng"
   },
   "sentence-transformers": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Sentence Transformers",
    "url": "https://www.sbert.net",
    "web": {
@@ -954,39 +954,39 @@
    }
   },
   "sglang": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": "v0.5.21",
     "released": "2026-10-02",
     "repo": "sgl-project/sglang",
-    "stars": 37001
+    "stars": 37283
    },
    "github_ref": "sgl-project/sglang",
    "name": "SGLang",
    "url": "https://github.com/sgl-project/sglang"
   },
   "sherpa-onnx": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
     "licence": "Apache-2.0",
-    "pushed": "2026-10-09",
+    "pushed": "2026-10-17",
     "release": "v1.13.8",
     "released": "2026-09-10",
     "repo": "k2-fsa/sherpa-onnx",
-    "stars": 15224
+    "stars": 15357
    },
    "github_ref": "k2-fsa/sherpa-onnx",
    "name": "sherpa-onnx",
    "url": "https://github.com/k2-fsa/sherpa-onnx"
   },
   "sqlite-vec": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A vector search SQLite extension that runs anywhere!",
@@ -995,30 +995,30 @@
     "release": "v0.1.9",
     "released": "2026-03-31",
     "repo": "asg017/sqlite-vec",
-    "stars": 8178
+    "stars": 8194
    },
    "github_ref": "asg017/sqlite-vec",
    "name": "sqlite-vec",
    "url": "https://github.com/asg017/sqlite-vec"
   },
   "swarmui": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "SwarmUI (formerly StableSwarmUI), A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
     "licence": "MIT",
-    "pushed": "2026-10-01",
+    "pushed": "2026-10-18",
     "release": "0.9.8-Beta",
     "released": "2026-02-06",
     "repo": "mcmonkeyprojects/SwarmUI",
-    "stars": 4654
+    "stars": 4680
    },
    "github_ref": "mcmonkeyprojects/SwarmUI",
    "name": "SwarmUI",
    "url": "https://github.com/mcmonkeyprojects/SwarmUI"
   },
   "tabby": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Self-hosted AI coding assistant",
@@ -1027,14 +1027,14 @@
     "release": "v0.32.0",
     "released": "2026-01-25",
     "repo": "TabbyML/tabby",
-    "stars": 33907
+    "stars": 33916
    },
    "github_ref": "TabbyML/tabby",
    "name": "Tabby",
    "url": "https://github.com/TabbyML/tabby"
   },
   "text-generation-webui": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",
@@ -1043,14 +1043,14 @@
     "release": "v4.9",
     "released": "2026-05-20",
     "repo": "oobabooga/textgen",
-    "stars": 47728
+    "stars": 47735
    },
    "github_ref": "oobabooga/textgen",
    "name": "TextGen (text-generation-webui)",
    "url": "https://github.com/oobabooga/textgen"
   },
   "tree-ring-memory": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Framework-agnostic, local-first memory lifecycle for AI agents: Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, DOX/Revolve adapters, and TUI.",
@@ -1066,23 +1066,23 @@
    "url": "https://github.com/TerminallyLazy/Tree-Ring-Memory"
   },
   "twinny": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
-    "description": "Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
+    "description": "Open-source AI coding assistant for VS Code. Coding agent, code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
     "licence": "MIT",
-    "pushed": "2026-10-08",
+    "pushed": "2026-10-16",
     "release": "v4.0.20",
     "released": "2026-09-22",
     "repo": "twinnydotdev/twinny",
-    "stars": 3664
+    "stars": 3674
    },
    "github_ref": "twinnydotdev/twinny",
    "name": "twinny",
    "url": "https://github.com/twinnydotdev/twinny"
   },
   "unsloth": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Unsloth",
    "url": "https://unsloth.ai",
    "web": {
@@ -1092,7 +1092,7 @@
    }
   },
   "vibevoice": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Open-Source Frontier Voice AI",
@@ -1101,14 +1101,14 @@
     "release": null,
     "released": null,
     "repo": "microsoft/VibeVoice",
-    "stars": 54767
+    "stars": 54869
    },
    "github_ref": "microsoft/VibeVoice",
    "name": "VibeVoice",
    "url": "https://github.com/microsoft/VibeVoice"
   },
   "vllm": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "vLLM",
    "url": "https://docs.vllm.ai",
    "web": {
@@ -1118,7 +1118,7 @@
    }
   },
   "vosk": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Vosk",
    "url": "https://alphacephei.com/vosk/",
    "web": {
@@ -1128,7 +1128,7 @@
    }
   },
   "voxcpm": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
@@ -1137,30 +1137,30 @@
     "release": "2.0.3",
     "released": "2026-05-11",
     "repo": "OpenBMB/VoxCPM",
-    "stars": 38969
+    "stars": 39539
    },
    "github_ref": "OpenBMB/VoxCPM",
    "name": "VoxCPM2",
    "url": "https://github.com/OpenBMB/VoxCPM"
   },
   "wan2gp": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "A fast AI Video Generator for the GPU Poor. Supports Minimax H3, LTX-2.3/2.5, Wan 2.1/2.2,  Qwen Image 1/2, Krea 2, Hunyuan Video, LTX  Video and Flux.",
     "licence": "NOASSERTION",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-18",
     "release": null,
     "released": null,
     "repo": "deepbeepmeep/WanGP",
-    "stars": 10333
+    "stars": 10671
    },
-   "github_ref": "deepbeepmeep/Wan2GP",
-   "name": "Wan2GP",
-   "url": "https://github.com/deepbeepmeep/Wan2GP"
+   "github_ref": "deepbeepmeep/WanGP",
+   "name": "WanGP",
+   "url": "https://github.com/deepbeepmeep/WanGP"
   },
   "weaviate": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "name": "Weaviate",
    "url": "https://weaviate.io",
    "web": {
@@ -1170,32 +1170,32 @@
    }
   },
   "whisper-cpp": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "Port of OpenAI's Whisper model in C/C++",
     "licence": "MIT",
-    "pushed": "2026-10-11",
+    "pushed": "2026-10-12",
     "release": "v1.9.5",
     "released": "2026-10-06",
     "repo": "ggml-org/whisper.cpp",
-    "stars": 54301
+    "stars": 54471
    },
    "github_ref": "ggml-org/whisper.cpp",
    "name": "Whisper.cpp",
    "url": "https://github.com/ggml-org/whisper.cpp"
   },
   "whisperx": {
-   "checked": "2026-10-12",
+   "checked": "2026-10-18",
    "github": {
     "archived": false,
     "description": "WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
     "licence": "BSD-2-Clause",
-    "pushed": "2026-09-26",
+    "pushed": "2026-10-18",
     "release": "v3.8.6",
     "released": "2026-05-25",
     "repo": "m-bain/whisperX",
-    "stars": 24478
+    "stars": 24655
    },
    "github_ref": "m-bain/whisperX",
    "name": "WhisperX",

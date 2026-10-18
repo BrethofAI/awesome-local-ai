@@ -1,102 +1,96 @@
 {
- "checked": "2026-10-12",
+ "checked": "2026-10-18",
  "since": true,
  "changes": [
+  {
+   "slug": "axolotl",
+   "name": "Axolotl",
+   "kind": "release",
+   "detail": "v0.20.0 → v0.21.0 (2026-10-16)"
+  },
   {
    "slug": "cline",
    "name": "Cline",
    "kind": "release",
-   "detail": "desktop-v0.0.43 → desktop-v0.0.45 (2026-10-08)"
+   "detail": "desktop-v0.0.45 → v4.1.25 (2026-10-16)"
   },
   {
    "slug": "comfyui",
    "name": "ComfyUI",
    "kind": "release",
-   "detail": "v0.38.0 → v0.39.0 (2026-10-05)"
+   "detail": "v0.39.0 → v0.42.0 (2026-10-18)"
   },
   {
    "slug": "comfyui-ltx-video",
    "name": "ComfyUI + LTX Video",
    "kind": "release",
-   "detail": "v0.38.0 → v0.39.0 (2026-10-05)"
+   "detail": "v0.39.0 → v0.42.0 (2026-10-18)"
   },
   {
    "slug": "exllamav3",
    "name": "ExLlamaV3",
    "kind": "release",
-   "detail": "v1.5.4 → v1.6.1 (2026-10-10)"
-  },
-  {
-   "slug": "fastembed",
-   "name": "fastembed",
-   "kind": "release",
-   "detail": "v0.8.1 → v0.9.0 (2026-10-07)"
-  },
-  {
-   "slug": "forge",
-   "name": "Forge Classic / Neo",
-   "kind": "release",
-   "detail": "2.29.2 → 2.30 (2026-10-08)"
+   "detail": "v1.6.1 → v1.6.3 (2026-10-17)"
   },
   {
    "slug": "goose",
    "name": "goose",
    "kind": "release",
-   "detail": "v1.53.0 → v1.54.0 (2026-10-08)"
+   "detail": "v1.54.0 → v1.55.0 (2026-10-16)"
   },
   {
-   "slug": "lancedb",
-   "name": "LanceDB",
+   "slug": "koboldcpp",
+   "name": "KoboldCpp",
    "kind": "release",
-   "detail": "v0.39.0 → v0.40.0 (2026-10-07)"
+   "detail": "v1.122.1 → v1.123.1 (2026-10-13)"
   },
   {
    "slug": "lemonade",
    "name": "Lemonade",
    "kind": "release",
-   "detail": "v2026.40.0 → v2026.41.1 (2026-10-07)"
+   "detail": "v2026.41.1 → v2026.42.1 (2026-10-14)"
   },
   {
    "slug": "llama-cpp",
    "name": "llama.cpp",
    "kind": "release",
-   "detail": "v0.5.0 → v0.6.0 (2026-10-05)"
+   "detail": "v0.6.0 → v0.7.0 (2026-10-15)"
   },
   {
    "slug": "llama-swap",
    "name": "llama-swap",
    "kind": "release",
-   "detail": "v262 → v263 (2026-10-10)"
+   "detail": "v263 → v265 (2026-10-14)"
+  },
+  {
+   "slug": "mlx",
+   "name": "MLX",
+   "kind": "release",
+   "detail": "v0.32.3 → v0.32.4 (2026-10-14)"
+  },
+  {
+   "slug": "mlx-hardware-specific-runtimes",
+   "name": "MLX LM",
+   "kind": "release",
+   "detail": "v0.31.3 → v0.32.2 (2026-10-16)"
   },
   {
    "slug": "mold",
    "name": "Mold",
    "kind": "release",
-   "detail": "v0.32.0 → v0.34.0 (2026-10-09)"
+   "detail": "v0.34.0 → v0.36.0 (2026-10-13)"
   },
   {
-   "slug": "open-interpreter",
-   "name": "Open Interpreter",
+   "slug": "nanoavatar",
+   "name": "NanoAvatar",
    "kind": "release",
-   "detail": "rust-v0.0.55 → rust-v0.0.56 (2026-10-07)"
+   "detail": "v1.0.0-20260912 → v1.0.2-20261014 (2026-10-13)"
   },
   {
    "slug": "rocm-llama-cpp-hip",
    "name": "ROCm + llama.cpp HIP",
    "kind": "release",
-   "detail": "v0.5.0 → v0.6.0 (2026-10-05)"
-  },
-  {
-   "slug": "wan2gp",
-   "name": "Wan2GP",
-   "kind": "renamed",
-   "detail": "deepbeepmeep/Wan2GP → deepbeepmeep/WanGP"
-  },
-  {
-   "slug": "whisper-cpp",
-   "name": "Whisper.cpp",
-   "kind": "release",
-   "detail": "v1.9.4 → v1.9.5 (2026-10-06)"
+   "detail": "v0.6.0 → v0.7.0 (2026-10-15)"
   }
  ]
 }
