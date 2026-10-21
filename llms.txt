@@ -2,26 +2,26 @@
 
 > A curated list of AI tools that run entirely on local hardware without cloud dependencies or telemetry.
 
-The project is a maintained index of software for inference, voice, image generation, and local agents. It includes inclusion rules requiring verifiable provenance and strict local inference, with entries categorized by platform and license.
+The project is a maintained list of software for inference, voice, image generation, and local agents. It includes tools for Linux, Windows, macOS, and mobile platforms, with entries verified for offline capability and source availability.
 
 ## Docs
 
-- [awesome-local-ai](https://raw.githubusercontent.com/BrethofAI/awesome-local-ai/main/README.md): Curated list of fully local AI tools with strict inclusion rules and verified links.
+- [awesome-local-ai](https://raw.githubusercontent.com/BrethofAI/awesome-local-ai/main/README.md): Curated list of AI tools running entirely on local hardware, with strict inclusion rules and no mandatory cloud dependencies.
 - [Why this list exists](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#why-this-list-exists): Strict rule requiring inference on owned hardware without transmitting data off-device during normal use.
 - [Inclusion rules](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#inclusion-rules): Requirements for local hardware execution, verifiable provenance, and installable artifacts, plus maintenance and removal policies.
 - [Legend](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#legend): Icons indicating operating systems, source availability, pricing, programming languages, and recent listing status.
-- [Inference Runtimes](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#inference-runtimes): Engines for running LLMs and neural networks locally, including llama.cpp, ExLlamaV3, and llamafile.
+- [Inference Runtimes](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#inference-runtimes): Engines for loading LLMs and neural networks for local inference, including llama.cpp, ExLlamaV3, and Jan.
 - [Desktop Chat Apps](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#desktop-chat-apps): GUI applications wrapping local runtimes in chat interfaces, such as Anything LLM and Open WebUI.
-- [Voice — Speech-to-Text](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#voice--speech-to-text): Offline speech-to-text tools like Brethof Voice Pro, Buzz, Dictámelo, and faster-whisper for transcription and translation.
-- [Voice — Text-to-Speech](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#voice--text-to-speech): Local text-to-speech engines including Chatterbox, Coqui TTS, Kokoro, Kyutai Pocket TTS, Piper, and VoxCPM2.
-- [Image Generation](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#image-generation): Local image generation interfaces such as ComfyUI, Forge, InvokeAI, Mold, Radiant Canvas, and SD.Next.
-- [Video Generation](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#video-generation): Local video generation tools including ComfyUI with LTX Video, NanoAvatar, and WanGP for consumer hardware.
-- [Code Assistants](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#code-assistants): Local code assistants like Aider, Cline, Llama.vim, Tabby, and twinny for terminal and IDE integration.
-- [Local Agents](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#local-agents): Local AI agents including Aider architect mode, goose, Hyperconsciousness, Open Interpreter, and Tree Ring Memory.
+- [Voice — Speech-to-Text](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#voice--speech-to-text): Offline speech-to-text tools using Whisper and other models for transcription, translation, and subtitles on local hardware.
+- [Voice — Text-to-Speech](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#voice--text-to-speech): Local text-to-speech engines for voice cloning and synthesis, including Piper, Kokoro, and Chatterbox, running on CPU or GPU.
+- [Image Generation](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#image-generation): Local image generation tools using diffusion models, including ComfyUI, Forge, and InvokeAI, for creating images and video.
+- [Video Generation](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#video-generation): Local video generation tools for text-to-video and image-to-video, including ComfyUI with LTX Video and WanGP.
+- [Code Assistants](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#code-assistants): Aider, Cline, Llama.vim, Tabby, and twinny for local code completion, editing, and IDE integration.
+- [Local Agents](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#local-agents): Aider, goose, Hyperconsciousness, Open Interpreter, and Tree Ring Memory for local agent execution and memory.
 - [Vector Databases](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#vector-databases): Chroma, Faiss, LanceDB, Qdrant, sqlite-vec, and Weaviate for local vector storage and similarity search.
-- [Embeddings](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#embeddings): BGE, fastembed, and Sentence Transformers for generating local text embeddings on CPU or GPU.
-- [Training & Fine-tuning](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#training--fine-tuning): AI Toolkit, Axolotl, diffusion-pipe, MLX, and Unsloth for training and fine-tuning local AI models.
+- [Embeddings](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#embeddings): BGE, fastembed, and Sentence Transformers for generating local text embeddings.
+- [Training & Fine-tuning](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#training--fine-tuning): AI Toolkit, Axolotl, diffusion-pipe, MLX, and Unsloth for local model training and fine-tuning.
 - [Local Search & RAG](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#local-search--rag): Anything LLM, LlamaIndex, PrivateGPT, SearXNG, and Vane for local search and RAG pipelines.
 - [Operating Systems Tuned for AI](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#operating-systems-tuned-for-ai): CachyOS and Pop!_OS, two Linux distributions tuned for local AI and GPU driver support.
-- [Hardware-Specific Runtimes](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#hardware-specific-runtimes): Lemonade, MLX LM, TensorRT-LLM, OpenVINO, and ROCm runtimes for specific hardware architectures.
+- [Hardware-Specific Runtimes](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#hardware-specific-runtimes): Hardware-specific runtimes including Lemonade, MLX LM, TensorRT-LLM, OpenVINO, and ROCm for various AI hardware.
 - [Related work](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#related-work): Links to related projects covering llms.txt tools, privacy AI, MCP servers, licenses, Linux distros, and ComfyUI workflows.
