@@ -56,7 +56,7 @@ or no local mode at all.
 
 - [Inference Runtimes](#inference-runtimes) (15)
 - [Desktop Chat Apps](#desktop-chat-apps) (3)
-- [Voice — Speech-to-Text](#voice-—-speech-to-text) (14)
+- [Voice — Speech-to-Text](#voice-—-speech-to-text) (15)
 - [Voice — Text-to-Speech](#voice-—-text-to-speech) (6)
 - [Image Generation](#image-generation) (7)
 - [Video Generation](#video-generation) (3)
@@ -167,6 +167,8 @@ GUI applications wrapping a local runtime in a chat interface.
 - **[WhisperX](https://github.com/m-bain/whisperX)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   faster-whisper plus forced alignment, voice-activity detection, and speaker diarization.  
   <sub>★ 24.5k · v3.8.6 (2026-05-25)</sub>
+- **[Yap MCP](https://github.com/founden-bot/yap-mcp)** — 🆕 🐧 🪟 🍎 🔓 🆓 🟦  
+  MCP server and CLI that transcribes local audio and video files on the CPU with NVIDIA Parakeet TDT v3 through sherpa-onnx, 25 European languages, no account or API key; offline after a one-time model download. An optional tool searches the closed-source, paid Yap app's local history. MIT.
 
 ## Voice — Text-to-Speech
 
@@ -216,7 +218,7 @@ GUI applications wrapping a local runtime in a chat interface.
   ComfyUI nodes drive Lightricks LTX video models for text-to-video and image-to-video generation. The chunked-loop pattern (released in our [comfyui-workflows](https://github.com/BrethofAI/comfyui-workflows)) produces longer outputs than vanilla LTX allows.  
   <sub>★ 136.9k · v0.39.0 (2026-10-05)</sub>
 - **[NanoAvatar](https://github.com/wpydcr/NanoAvatar)** — 🆕 📱 🔓 🆓  
-  Audio-driven talking avatars generated on an Android phone; Experience mode runs fully offline, no account or API key. Code MIT; the lip-sync weights and default avatar are CC BY-NC 4.0 (non-commercial).  
+  Audio-driven talking avatars generated on an Android phone; Experience mode runs fully offline, no account or API key. Optional voice cloning (since 1.0.2) uploads your voice sample to Alibaba Cloud with your own API key. Code MIT; the lip-sync weights and default avatar are CC BY-NC 4.0 (non-commercial).  
   <sub>★ 23 · v1.0.0-20260912 (2026-09-12)</sub>
 - **[WanGP](https://github.com/deepbeepmeep/WanGP)** — 🐧 🪟 🍎 source-available 🆓 🐍  
   Low-VRAM video, image and audio generator for consumer GPUs ("for the GPU Poor"), covering Wan 2.1/2.2, LTX-2, Hunyuan Video, Qwen Image, Z-Image, Flux and Qwen3 TTS in one web UI. Formerly Wan2GP.  
