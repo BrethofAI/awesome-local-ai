@@ -1,96 +1,96 @@
 {
- "checked": "2026-10-18",
+ "checked": "2026-10-25",
  "since": true,
  "changes": [
-  {
-   "slug": "axolotl",
-   "name": "Axolotl",
-   "kind": "release",
-   "detail": "v0.20.0 → v0.21.0 (2026-10-16)"
-  },
-  {
-   "slug": "cline",
-   "name": "Cline",
-   "kind": "release",
-   "detail": "desktop-v0.0.45 → v4.1.25 (2026-10-16)"
-  },
   {
    "slug": "comfyui",
    "name": "ComfyUI",
    "kind": "release",
-   "detail": "v0.39.0 → v0.42.0 (2026-10-18)"
+   "detail": "v0.42.0 → v0.42.1 (2026-10-19)"
   },
   {
    "slug": "comfyui-ltx-video",
    "name": "ComfyUI + LTX Video",
    "kind": "release",
-   "detail": "v0.39.0 → v0.42.0 (2026-10-18)"
+   "detail": "v0.42.0 → v0.42.1 (2026-10-19)"
+  },
+  {
+   "slug": "coqui-tts",
+   "name": "Coqui TTS (idiap fork)",
+   "kind": "release",
+   "detail": "v0.27.5 → v0.28.0 (2026-10-19)"
+  },
+  {
+   "slug": "dictamelo",
+   "name": "Dictámelo",
+   "kind": "release",
+   "detail": "v1.0.0 → v1.0.1 (2026-10-23)"
   },
   {
    "slug": "exllamav3",
    "name": "ExLlamaV3",
    "kind": "release",
-   "detail": "v1.6.1 → v1.6.3 (2026-10-17)"
+   "detail": "v1.6.3 → v1.6.5 (2026-10-25)"
+  },
+  {
+   "slug": "fastembed",
+   "name": "fastembed",
+   "kind": "release",
+   "detail": "v0.9.0 → v0.9.1 (2026-10-24)"
+  },
+  {
+   "slug": "forge",
+   "name": "Forge Classic / Neo",
+   "kind": "release",
+   "detail": "2.30 → 2.31 (2026-10-21)"
   },
   {
    "slug": "goose",
    "name": "goose",
    "kind": "release",
-   "detail": "v1.54.0 → v1.55.0 (2026-10-16)"
-  },
-  {
-   "slug": "koboldcpp",
-   "name": "KoboldCpp",
-   "kind": "release",
-   "detail": "v1.122.1 → v1.123.1 (2026-10-13)"
+   "detail": "v1.55.0 → v1.56.0 (2026-10-23)"
   },
   {
    "slug": "lemonade",
    "name": "Lemonade",
    "kind": "release",
-   "detail": "v2026.41.1 → v2026.42.1 (2026-10-14)"
-  },
-  {
-   "slug": "llama-cpp",
-   "name": "llama.cpp",
-   "kind": "release",
-   "detail": "v0.6.0 → v0.7.0 (2026-10-15)"
+   "detail": "v2026.42.1 → v2026.43.3 (2026-10-21)"
   },
   {
    "slug": "llama-swap",
    "name": "llama-swap",
    "kind": "release",
-   "detail": "v263 → v265 (2026-10-14)"
+   "detail": "v265 → v266 (2026-10-22)"
   },
   {
-   "slug": "mlx",
-   "name": "MLX",
+   "slug": "mistral-rs",
+   "name": "Mistral.rs",
    "kind": "release",
-   "detail": "v0.32.3 → v0.32.4 (2026-10-14)"
-  },
-  {
-   "slug": "mlx-hardware-specific-runtimes",
-   "name": "MLX LM",
-   "kind": "release",
-   "detail": "v0.31.3 → v0.32.2 (2026-10-16)"
-  },
-  {
-   "slug": "mold",
-   "name": "Mold",
-   "kind": "release",
-   "detail": "v0.34.0 → v0.36.0 (2026-10-13)"
+   "detail": "v0.9.4 → v0.9.5 (2026-10-19)"
   },
   {
    "slug": "nanoavatar",
    "name": "NanoAvatar",
    "kind": "release",
-   "detail": "v1.0.0-20260912 → v1.0.2-20261014 (2026-10-13)"
+   "detail": "v1.0.2-20261014 → v1.0.8-20261025 (2026-10-25)"
   },
   {
-   "slug": "rocm-llama-cpp-hip",
-   "name": "ROCm + llama.cpp HIP",
+   "slug": "pocket-tts",
+   "name": "Kyutai Pocket TTS",
    "kind": "release",
-   "detail": "v0.6.0 → v0.7.0 (2026-10-15)"
+   "detail": "v3.3.0 → v4.0.1 (2026-10-21)"
+  },
+  {
+   "slug": "sglang",
+   "name": "SGLang",
+   "kind": "release",
+   "detail": "v0.5.21 → v0.5.22 (2026-10-19)"
+  },
+  {
+   "slug": "sherpa-onnx",
+   "name": "sherpa-onnx",
+   "kind": "release",
+   "detail": "v1.13.8 → v2.0.0 (2026-10-23)"
   }
  ]
 }
