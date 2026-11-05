@@ -59,7 +59,7 @@ or no local mode at all.
 - [Voice — Speech-to-Text](#voice-—-speech-to-text) (15)
 - [Voice — Text-to-Speech](#voice-—-text-to-speech) (6)
 - [Image Generation](#image-generation) (7)
-- [Video Generation](#video-generation) (3)
+- [Video Generation](#video-generation) (2)
 - [Code Assistants](#code-assistants) (5)
 - [Local Agents](#local-agents) (5)
 - [Vector Databases](#vector-databases) (6)
@@ -218,8 +218,6 @@ GUI applications wrapping a local runtime in a chat interface.
 - **[ComfyUI + LTX Video](https://github.com/Comfy-Org/ComfyUI)** — 🐧 🪟 🍎 🔓 🆓 🐍  
   ComfyUI nodes drive Lightricks LTX video models for text-to-video and image-to-video generation. The chunked-loop pattern (released in our [comfyui-workflows](https://github.com/BrethofAI/comfyui-workflows)) produces longer outputs than vanilla LTX allows.  
   <sub>★ 144.5k · v0.43.0 (2026-10-27)</sub>
-- **[NanoAvatar](https://github.com/wpydcr/NanoAvatar)** — 🆕 📱 🔓 🆓  
-  Audio-driven talking avatars generated on an Android phone; Experience mode runs fully offline, no account or API key. Optional voice cloning (since 1.0.2) uploads your voice sample to Alibaba Cloud with your own API key. Code MIT; the lip-sync weights and default avatar are CC BY-NC 4.0 (non-commercial).
 - **[WanGP](https://github.com/deepbeepmeep/WanGP)** — 🐧 🪟 🍎 source-available 🆓 🐍  
   Low-VRAM video, image and audio generator for consumer GPUs ("for the GPU Poor"), covering Wan 2.1/2.2, LTX-2, Hunyuan Video, Qwen Image, Z-Image, Flux and Qwen3 TTS in one web UI. Formerly Wan2GP.  
   <sub>★ 11.3k · manager-v0.1.13 (2026-11-01)</sub>
