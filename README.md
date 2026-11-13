@@ -68,6 +68,7 @@ or no local mode at all.
 - [Local Search & RAG](#local-search--rag) (5)
 - [Operating Systems Tuned for AI](#operating-systems-tuned-for-ai) (2)
 - [Hardware-Specific Runtimes](#hardware-specific-runtimes) (5)
+- [Translation](#translation) (1)
 
 <!-- The list below is generated from entries/*.yaml by scripts/gen_awesome_readme.py. Edit the YAML, not this section. -->
 
@@ -346,6 +347,13 @@ The two distros that come ready for local AI out of the box. The full, ranked co
 - **[ROCm + llama.cpp HIP](https://github.com/ggml-org/llama.cpp)** — 🐧 🪟 🔓 🆓 ⚙️  
   AMD GPU path for llama.cpp. Its HIP/ROCm backend ships prebuilt ROCm 10.0 binaries for Linux and Windows with every release; the Vulkan backend is the fallback for Radeon cards ROCm does not support.  
   <sub>★ 133.8k · v0.9.0 (2026-11-04)</sub>
+
+## Translation
+
+Translators that run the model on your own device.
+
+- **[Earshot AI](https://earshot.chuchu1226.chatgpt.site/)** — 🆕 📱 🔒 💰  
+  iPhone app (iOS 17+) that translates speech, typed text, text in photos and TXT or text-based PDF files on the device with a bundled HY translation model, keeps the history on the phone and exports bilingual PDFs; compatible GGUF models can be imported. No account, subscription, in-app purchases or ads; the app is a one-time paid download from the [App Store](https://apps.apple.com/us/app/id6830550013). Speech recognition uses Apple's on-device language resources, which may need a download first, and it never falls back to a cloud recognizer. Not sold in the EU, UK, South Korea or mainland China. Closed source.
 
 <!-- LIST:END -->
 

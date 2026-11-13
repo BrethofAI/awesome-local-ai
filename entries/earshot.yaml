@@ -1,0 +1,20 @@
+name: Earshot AI
+slug: earshot
+url: https://earshot.chuchu1226.chatgpt.site/
+category: translation
+category_label: Translation
+tagline: iPhone app (iOS 17+) that translates speech, typed text, text in photos and TXT or
+  text-based PDF files on the device with a bundled HY translation model, keeps the history on
+  the phone and exports bilingual PDFs; compatible GGUF models can be imported. No account,
+  subscription, in-app purchases or ads; the app is a one-time paid download from the
+  [App Store](https://apps.apple.com/us/app/id6830550013). Speech recognition uses Apple's
+  on-device language resources, which may need a download first, and it never falls back to a
+  cloud recognizer. Not sold in the EU, UK, South Korea or mainland China. Closed source.
+tags:
+- mobile
+- closed source
+- paid
+list: local-ai
+added: '2026-11-13'
+category_order: 14
+verified: '2026-11-13'
