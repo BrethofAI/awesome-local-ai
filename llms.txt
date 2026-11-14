@@ -1,12 +1,12 @@
 # awesome-local-ai
 
-> A curated list of AI tools that run 100% locally on user hardware without cloud dependencies or telemetry.
+> A curated list of AI tools that run entirely on local hardware without cloud dependencies or telemetry.
 
-The list covers inference runtimes, desktop apps, voice tools, and local agents. It enforces strict inclusion rules requiring verifiable provenance and no mandatory cloud accounts.
+The project is a static list organized by categories such as inference runtimes, voice, and code assistants. It includes inclusion rules requiring verifiable provenance and strict local inference, with entries labeled by platform, license, and language.
 
 ## Docs
 
-- [awesome-local-ai](https://raw.githubusercontent.com/BrethofAI/awesome-local-ai/main/README.md): Curated list of fully local AI tools with strict inclusion rules and verified links.
+- [awesome-local-ai](https://raw.githubusercontent.com/BrethofAI/awesome-local-ai/main/README.md): Inclusion rules and strict criteria for AI tools that run inference entirely on user-owned hardware.
 - [Why this list exists](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#why-this-list-exists): Strict rule requiring inference on owned hardware without transmitting data off-device during normal use.
 - [Inclusion rules](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#inclusion-rules): Requirements for local hardware execution, verifiable provenance, and installable artifacts, plus maintenance and removal policies.
 - [Legend](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#legend): Icons indicating operating systems, source availability, pricing, programming languages, and recent listing status.
@@ -23,5 +23,6 @@ The list covers inference runtimes, desktop apps, voice tools, and local agents.
 - [Training & Fine-tuning](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#training--fine-tuning): Frameworks and tools for fine-tuning diffusion models and LLMs locally on consumer or Apple hardware.
 - [Local Search & RAG](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#local-search--rag): Self-hosted RAG pipelines, private API layers, and offline search engines for local AI applications.
 - [Operating Systems Tuned for AI](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#operating-systems-tuned-for-ai): CachyOS and Pop!_OS, two Linux distributions tuned for local AI and GPU driver support.
-- [Hardware-Specific Runtimes](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#hardware-specific-runtimes): Inference runtimes optimized for AMD NPUs, Apple Silicon, NVIDIA GPUs, Intel hardware, and AMD GPUs.
+- [Hardware-Specific Runtimes](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#hardware-specific-runtimes): Runtimes for AMD, Apple, NVIDIA, Intel, and ROCm GPUs, including Lemonade, MLX LM, TensorRT-LLM, and OpenVINO.
+- [Translation](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#translation): Earshot AI, an iPhone app for on-device speech and text translation using a bundled HY model.
 - [Related work](https://github.com/BrethofAI/awesome-local-ai/blob/main/README.md#related-work): Links to related projects covering llms.txt tools, privacy AI, MCP servers, licenses, Linux distros, and ComfyUI workflows.
