@@ -61,7 +61,7 @@ or no local mode at all.
 - [Image Generation](#image-generation) (7)
 - [Video Generation](#video-generation) (2)
 - [Code Assistants](#code-assistants) (5)
-- [Local Agents](#local-agents) (5)
+- [Local Agents](#local-agents) (6)
 - [Vector Databases](#vector-databases) (6)
 - [Embeddings](#embeddings) (3)
 - [Training & Fine-tuning](#training--fine-tuning) (5)
@@ -253,6 +253,8 @@ GUI applications wrapping a local runtime in a chat interface.
 - **[Open Interpreter](https://github.com/openinterpreter/openinterpreter)** — 🐧 🪟 🍎 🔓 🆓 🦀  
   Rewritten in 2026 as a Rust coding agent (a fork of OpenAI's Codex) for open models. Fully local with --oss and Ollama or LM Studio as the provider.  
   <sub>★ 68.8k · rust-v0.0.59 (2026-11-04)</sub>
+- **[Sparkkeep](https://github.com/BurlacuAndrei/sparkkeep)** — 🆕 🐧 🪟 🍎 🔓 🆓 🐹  
+  Self-hosted action engine and triage board for notes, links, and media. Scrapes, synthesizes actionable briefs with local LLMs, and pushes to Obsidian/Notion.
 - **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** — 🆕 🐧 🍎 🔓 🆓 🦀  
   Local-first memory for coding agents: a Rust CLI/TUI with project-scoped SQLite/FTS recall, audit and forgetting. No account, no cloud service.  
   <sub>★ 22 · v0.15.13 (2026-09-15)</sub>

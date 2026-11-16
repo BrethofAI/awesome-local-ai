@@ -1,0 +1,17 @@
+name: Sparkkeep
+slug: sparkkeep
+url: https://github.com/BurlacuAndrei/sparkkeep
+category: local-agents
+category_label: Local Agents
+tagline: Self-hosted action engine and triage board for notes, links, and media. Scrapes,
+  synthesizes actionable briefs with local LLMs, and pushes to Obsidian/Notion.
+tags:
+- Linux
+- Windows
+- macOS
+- open source
+- free
+- Go
+list: local-ai
+added: '2026-11-16'
+category_order: 7
