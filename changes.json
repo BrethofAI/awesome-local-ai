@@ -1,108 +1,78 @@
 {
- "checked": "2026-11-16",
+ "checked": "2026-11-23",
  "since": true,
  "changes": [
+  {
+   "slug": "cline",
+   "name": "Cline",
+   "kind": "release",
+   "detail": "v4.1.26 → v4.1.27 (2026-11-21)"
+  },
   {
    "slug": "comfyui",
    "name": "ComfyUI",
    "kind": "release",
-   "detail": "v0.44.0 → v0.45.0 (2026-11-10)"
+   "detail": "v0.45.0 → v0.46.0 (2026-11-18)"
   },
   {
    "slug": "comfyui-ltx-video",
    "name": "ComfyUI + LTX Video",
    "kind": "release",
-   "detail": "v0.44.0 → v0.45.0 (2026-11-10)"
+   "detail": "v0.45.0 → v0.46.0 (2026-11-18)"
   },
   {
-   "slug": "exllamav3",
-   "name": "ExLlamaV3",
+   "slug": "dictamelo",
+   "name": "Dictámelo",
    "kind": "release",
-   "detail": "v1.6.6 → v1.6.7 (2026-11-13)"
-  },
-  {
-   "slug": "faiss",
-   "name": "Faiss",
-   "kind": "release",
-   "detail": "v1.15.1 → v1.16.0 (2026-11-10)"
+   "detail": "v1.0.1 → v1.0.2 (2026-11-17)"
   },
   {
    "slug": "forge",
    "name": "Forge Classic / Neo",
    "kind": "release",
-   "detail": "2.31 → 2.32 (2026-11-10)"
+   "detail": "2.32 → 2.33 (2026-11-21)"
   },
   {
    "slug": "goose",
    "name": "goose",
    "kind": "release",
-   "detail": "v1.57.0 → v1.59.1 (2026-11-14)"
+   "detail": "v1.59.1 → v1.60.2 (2026-11-20)"
   },
   {
-   "slug": "handy",
-   "name": "Handy",
+   "slug": "koboldcpp",
+   "name": "KoboldCpp",
    "kind": "release",
-   "detail": "v0.10.0 → v0.10.1 (2026-11-14)"
+   "detail": "v1.124.2 → v1.125.1 (2026-11-22)"
   },
   {
    "slug": "lemonade",
    "name": "Lemonade",
    "kind": "release",
-   "detail": "v2026.45.3 → v2026.46.2 (2026-11-11)"
-  },
-  {
-   "slug": "llama-cpp",
-   "name": "llama.cpp",
-   "kind": "release",
-   "detail": "v0.9.0 → v1.0.0 (2026-11-13)"
+   "detail": "v2026.46.2 → v2026.47.1 (2026-11-18)"
   },
   {
    "slug": "llama-swap",
    "name": "llama-swap",
    "kind": "release",
-   "detail": "v271 → v273 (2026-11-15)"
+   "detail": "v273 → v275 (2026-11-20)"
   },
   {
-   "slug": "llamaindex",
-   "name": "LlamaIndex",
+   "slug": "nvidia-tensorrt-llm",
+   "name": "NVIDIA TensorRT-LLM",
    "kind": "release",
-   "detail": "v0.14.25 → v0.14.26 (2026-11-13)"
-  },
-  {
-   "slug": "open-interpreter",
-   "name": "Open Interpreter",
-   "kind": "release",
-   "detail": "rust-v0.0.59 → rust-v0.0.61 (2026-11-11)"
-  },
-  {
-   "slug": "realtimestt",
-   "name": "RealtimeSTT",
-   "kind": "release",
-   "detail": "v1.1.2 → v1.2.0 (2026-11-11)"
-  },
-  {
-   "slug": "realtimestt",
-   "name": "RealtimeSTT",
-   "kind": "licence",
-   "detail": "MIT → Apache-2.0"
-  },
-  {
-   "slug": "rocm-llama-cpp-hip",
-   "name": "ROCm + llama.cpp HIP",
-   "kind": "release",
-   "detail": "v0.9.0 → v1.0.0 (2026-11-13)"
+   "detail": "v1.2.1 → v1.3.0 (2026-11-20)"
   },
   {
    "slug": "sherpa-onnx",
    "name": "sherpa-onnx",
    "kind": "release",
-   "detail": "v2.0.1 → fa-models (2026-11-11)"
+   "detail": "fa-models → v2.0.3 (2026-11-22)"
   },
   {
    "slug": "wan2gp",
    "name": "WanGP",
    "kind": "release",
-   "detail": "manager-v0.1.15 → manager-v0.1.17 (2026-11-12)"
+   "detail": "manager-v0.1.17 → manager-v0.1.19 (2026-11-19)"
   }
  ]
 }
